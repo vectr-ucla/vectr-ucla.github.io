@@ -1,58 +1,29 @@
-/*!
- * Bootstrap v3.3.7 (http://getbootstrap.com)
- * Copyright 2011-2016 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+// Include Bootstrap (see https://getbootstrap.com/docs/5.1/customize/sass/)
 
-// Core variables and mixins
-@import "bootstrap/variables";
-@import "bootstrap/mixins";
+// Option A: Include all of Bootstrap
+// Include any default variable overrides here (though functions won't be available)
+@import "bootstrap/bootstrap";
 
-// Reset and dependencies
-@import "bootstrap/normalize";
-@import "bootstrap/print";
-@import "bootstrap/glyphicons";
 
-// Core CSS
-@import "bootstrap/scaffolding";
-@import "bootstrap/type";
-@import "bootstrap/code";
-@import "bootstrap/grid";
-@import "bootstrap/tables";
-@import "bootstrap/forms";
-@import "bootstrap/buttons";
+// // Option B: Include parts of Bootstrap
+// // 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+// @import "bootstrap/functions";
 
-// Components
-@import "bootstrap/component-animations";
-@import "bootstrap/dropdowns";
-@import "bootstrap/button-groups";
-@import "bootstrap/input-groups";
-@import "bootstrap/navs";
-@import "bootstrap/navbar";
-@import "bootstrap/breadcrumbs";
-@import "bootstrap/pagination";
-@import "bootstrap/pager";
-@import "bootstrap/labels";
-@import "bootstrap/badges";
-@import "bootstrap/jumbotron";
-@import "bootstrap/thumbnails";
-@import "bootstrap/alerts";
-@import "bootstrap/progress-bars";
-@import "bootstrap/media";
-@import "bootstrap/list-group";
-@import "bootstrap/panels";
-@import "bootstrap/responsive-embed";
-@import "bootstrap/wells";
-@import "bootstrap/close";
+// // 2. Include any default variable overrides here
 
-// Components w/ JavaScript
-@import "bootstrap/modals";
-@import "bootstrap/tooltip";
-@import "bootstrap/popovers";
-@import "bootstrap/carousel";
+// // 3. Include remainder of required Bootstrap stylesheets
+// @import "bootstrap/variables";
+// @import "bootstrap/mixins";
+// @import "bootstrap/root";
 
-// Utility classes
-@import "bootstrap/utilities";
-@import "bootstrap/responsive-utilities";
-@import "bootstrap/bootswatch";
+// // 4. Include any optional Bootstrap CSS as needed
+// @import "bootstrap/utilities";
+// @import "bootstrap/reboot";
+// @import "bootstrap/type";
+// @import "bootstrap/images";
+// @import "bootstrap/containers";
+// @import "bootstrap/grid";
+// @import "bootstrap/helpers";
 
+// // 5. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
+// @import "bootstrap/utilities/api";
