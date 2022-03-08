@@ -3,7 +3,6 @@ title: "VECTR Lab - Publications"
 layout: gridlay
 excerpt: "VECTR Lab -- Publications."
 sitemap: false
-permalink: /publications/
 ---
 
 
@@ -23,16 +22,20 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+<div markdown="0" class="col-sm-6 clearfix">
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">{{ publi.title }}</h5>
+      <img src="/images/{{ publi.image }}" class="img-fluid" width="33%" style="float: left" />
+      <p class="card-text">
+        <p markdown="1">{{ publi.description }}</p>
+        <p><em>{{ publi.authors }}</em></p>
+        <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+        <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+        <p markdown="1"> {{ publi.news2 }}</p>
+      </p>
+    </div>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

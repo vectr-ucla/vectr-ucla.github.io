@@ -2,7 +2,6 @@
 title: "VECTR Lab - Pictures"
 layout: piclay
 excerpt: "VECTR Lab -- Pictures"
-permalink: /pictures/
 ---
 
 # Pictures
@@ -19,7 +18,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="/images/{{ pic.image }}" class="img-fluid" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

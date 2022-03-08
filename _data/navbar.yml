@@ -1,0 +1,17 @@
+- title: "Home"
+  url: "/"
+
+- title: "Team"
+  url: "/team/"
+
+- title: "Vacancies"
+  url: "/vacancies/"
+
+- title: "Publications"
+  url: "/publications/"
+
+- title: "Research"
+  url: "/research/"
+
+- title: "(Pics)"
+  url: "/pictures/"

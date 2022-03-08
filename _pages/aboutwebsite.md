@@ -3,7 +3,6 @@ title: "About the website"
 layout: textlay
 excerpt: "About the website."
 sitemap: false
-permalink: /aboutwebsite.html
 ---
 
 This website is derived from a template provided by the Allan Lab at Leiden University. Find more info at [their website](https://www.allanlab.org/aboutwebsite.html).
