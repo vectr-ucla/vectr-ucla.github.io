@@ -1,29 +1,20 @@
-// Include Bootstrap (see https://getbootstrap.com/docs/5.1/customize/sass/)
+// Customize Bootstrap (see https://getbootstrap.com/docs/5.1/customize/sass/)
 
-// Option A: Include all of Bootstrap
-// Include any default variable overrides here (though functions won't be available)
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+$custom-color: $yellow-200;
+
+$theme-colors:map-merge($theme-colors, (
+  "primary": $blue-500,
+  "custom-color": $custom-color
+));
+
+// propagate custom theme colors to relevant variables (see https://stackoverflow.com/a/68762902)
+$theme-colors-rgb: map-loop($theme-colors, to-rgb, "$value");
+$utilities-colors: map-merge($utilities-colors, $theme-colors-rgb);
+$utilities-text-colors: map-loop($utilities-colors, rgba-css-var, "$key", "text");
+$utilities-bg-colors: map-loop($utilities-colors, rgba-css-var, "$key", "bg");
+
 @import "bootstrap/bootstrap";
-
-
-// // Option B: Include parts of Bootstrap
-// // 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
-// @import "bootstrap/functions";
-
-// // 2. Include any default variable overrides here
-
-// // 3. Include remainder of required Bootstrap stylesheets
-// @import "bootstrap/variables";
-// @import "bootstrap/mixins";
-// @import "bootstrap/root";
-
-// // 4. Include any optional Bootstrap CSS as needed
-// @import "bootstrap/utilities";
-// @import "bootstrap/reboot";
-// @import "bootstrap/type";
-// @import "bootstrap/images";
-// @import "bootstrap/containers";
-// @import "bootstrap/grid";
-// @import "bootstrap/helpers";
-
-// // 5. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
-// @import "bootstrap/utilities/api";
