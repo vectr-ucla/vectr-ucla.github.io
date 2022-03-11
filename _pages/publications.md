@@ -23,7 +23,7 @@ sitemap: false
 {% endif %}
 
 <div markdown="0" class="col-sm-6 clearfix">
-  <div class="card">
+  <div class="card bg-panel-bg">
     <div class="card-body">
       <h5 class="card-title">{{ publi.title }}</h5>
       <img src="/images/{{ publi.image }}" class="img-fluid" width="33%" style="float: left" />
