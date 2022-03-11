@@ -1,13 +1,11 @@
 // Customize Bootstrap (see https://getbootstrap.com/docs/5.1/customize/sass/)
+// Use Bootswatch theme (see https://github.com/thomaspark/bootswatch)
 
-// Dark mode configuration based on https://github.com/vinorodrigues/bootstrap-dark-5/blob/main/scss/bootstrap-night.scss 
-
-// Include Bootstrap variables
-@import "bootstrap-dark/bootstrap-colors";
-
-// Activate dark mode
-@import "bootstrap-dark/dark/variables-map-alt-to-core";
-// :root { color-scheme: dark; }
+// Include Bootstrap & Bootswatch theme variables
+@import "bootswatch/darkly/variables"; // select theme
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
 
 // Custom color definitions
 $header-footer-bg: $black;
@@ -26,10 +24,6 @@ $utilities-colors: map-merge($utilities-colors, $theme-colors-rgb);
 $utilities-text-colors: map-loop($utilities-colors, rgba-css-var, "$key", "text");
 $utilities-bg-colors: map-loop($utilities-colors, rgba-css-var, "$key", "bg");
 
-// Include Bootstrap
-@import "bootstrap/utilities";
-@import "bootstrap-dark/dark/patch";
+// Include Bootstrap & Bootswatch
 @import "bootstrap/bootstrap";
-
-// Extra dark mode stuff
-@import "bootstrap-dark/dark/dark";
+@import "bootswatch/darkly/bootswatch"; // select theme
