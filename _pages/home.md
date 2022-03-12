@@ -18,14 +18,14 @@ Description goes here.
   <!-- Items -->
   <div class="carousel-inner h-100">
     <div class="carousel-item active">
-      <img src="/images/dummy.png" class="d-block w-100">
+      <img src="/images/carousel/sculpture_garden.png">
+    </div>
+    <!-- <div class="carousel-item">
+      <img src="/images/dummy.png">
     </div>
     <div class="carousel-item">
-      <img src="/images/dummy.png" class="d-block w-100">
-    </div>
-    <div class="carousel-item">
-      <img src="/images/dummy.png" class="d-block w-100">
-    </div>
+      <img src="/images/dummy.png">
+    </div> -->
   </div>
 
   <button class="carousel-control-prev" type="button" data-bs-target="#vectrCarousel" data-bs-slide="prev">
