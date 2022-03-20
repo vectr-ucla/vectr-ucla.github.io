@@ -2,7 +2,7 @@
 // Use Bootswatch theme (see https://github.com/thomaspark/bootswatch)
 
 // Include Bootstrap & Bootswatch theme variables
-@import "bootswatch/darkly/variables"; // select theme
+@import "bootswatch/superhero/variables"; // select theme
 @import "bootstrap/functions";
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
@@ -28,4 +28,4 @@ $utilities-bg-colors: map-loop($utilities-colors, rgba-css-var, "$key", "bg");
 
 // Include Bootstrap & Bootswatch
 @import "bootstrap/bootstrap";
-@import "bootswatch/darkly/bootswatch"; // select theme
+@import "bootswatch/superhero/bootswatch"; // select theme
