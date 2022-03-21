@@ -1,10 +1,13 @@
 ---
 title: "VECTR Lab - Home"
-layout: homelay
+layout: home_layout
 excerpt: "VECTR Lab at UCLA."
 sitemap: false
 permalink: /
 ---
+
+# VECTR at UCLA
+#### *The Verifiable & Control-Theoretic Robotics Lab*
 
 Description goes here.
 

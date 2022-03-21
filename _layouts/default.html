@@ -5,12 +5,10 @@
 
   <body>
 
-    {% include header.html %}
+    {% include navbar.html %}
 
-    <div class="container-lg">
-      <div class="row">
-        {{ content }}
-      </div>
+    <div id={{ page.name | remove: ".md" }} class="container-lg">
+      {{ content }}
     </div>
 
     {% include footer.html %}

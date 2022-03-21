@@ -1,6 +1,6 @@
 ---
 title: "VECTR Lab - Pictures"
-layout: piclay
+layout: default
 excerpt: "VECTR Lab -- Pictures"
 ---
 

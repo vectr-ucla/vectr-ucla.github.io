@@ -1,6 +1,6 @@
 ---
 title: "About the website"
-layout: textlay
+layout: default
 excerpt: "About the website."
 sitemap: false
 ---

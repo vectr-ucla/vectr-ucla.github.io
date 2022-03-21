@@ -1,6 +1,6 @@
 ---
 title: "VECTR Lab - Vacancies"
-layout: textlay
+layout: default
 excerpt: "Openings"
 sitemap: false
 ---

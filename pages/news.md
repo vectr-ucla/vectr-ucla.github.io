@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: textlay
+layout: default
 excerpt: "VECTR Lab at UCLA."
 sitemap: false
 ---
