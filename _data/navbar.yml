@@ -10,5 +10,8 @@
 - title: "People"
   url: "/members/"
 
+- title: "News"
+  url: "/news/"
+
 - title: "Media"
   url: "/media/"
