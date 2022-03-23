@@ -6,7 +6,7 @@ This website is a work in progress. It is based on a template provided by the [A
 - `sudo apt install ruby-dev ruby-bundler nodejs`
 - `cd vectr-website`
 - `bundle clean && bundle install`
-- `bundle exec jekyll liveserve` then go to `localhost:4000`
+- `bundle exec jekyll serve` then go to `localhost:4000`
 
 More instructions for testing locally can be found here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll.
 
