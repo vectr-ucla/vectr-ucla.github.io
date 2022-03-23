@@ -58,9 +58,9 @@ sitemap: false
 {% endfor %}
 
 
-## Alumni
+<!-- ## Alumni
 <ul>
   {% for member in site.data.alumni %}
     <li>{{ member.name }}</li>
   {% endfor %}
-</ul>
+</ul> -->
