@@ -3,7 +3,7 @@
 
 @import "bootstrap";
 
-$navbar-height: 72px;
+$navbar-height: 77px;
 body {
   padding-top: $navbar-height + 14px;
 }
@@ -15,6 +15,15 @@ body {
 
 .vectr-wide-container {
   @extend .container-lg;
+}
+
+/* Navbar */
+#vectrNavbar img {
+  height: 65px;
+  transition: 0.4s;
+}
+#vectrNavbar.vectr-shrunk img {
+  height: 45px;
 }
 
 /* Members */
