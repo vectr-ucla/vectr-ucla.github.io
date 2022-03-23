@@ -1,0 +1,42 @@
+- name: Brett T Lopez
+  type: faculty
+  photo: dummy.png
+  info: |
+    Info
+    * Can be in the form of bullets
+    * Here's how to do *italics*
+
+- name: Luis Andrade
+  type: grad
+  photo: bio-photo.jpg
+  info: |
+    PhD Student
+    ...
+
+- name: Kenny Chen
+  type: grad
+  photo: bio-photo.jpg
+  info: |
+    PhD Student
+    ...
+
+- name: Helene Levy
+  type: grad
+  photo: bio-photo.jpg
+  info: |
+    PhD Student
+    ...
+
+- name: David Thorne
+  type: grad
+  photo: bio-photo.jpg
+  info: |
+    Gonna rock the prelims
+    ...
+
+- name: Ryan Nemiroff
+  type: grad
+  photo: bio-photo.jpg
+  info: |
+    MS Student
+    ...

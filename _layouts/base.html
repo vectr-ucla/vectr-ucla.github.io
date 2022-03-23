@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
   <body>
-
     {% include navbar.html %}
-
-    <div id={{ page.name | remove: ".md" }} class="container-lg">
+    <div id={{ page.name | remove: ".md" }}>
       {{ content }}
     </div>
-
     {% include footer.html %}
-
   </body>
-
 </html>

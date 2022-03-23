@@ -8,11 +8,28 @@ body {
   padding-top: $navbar-height + 14px;
 }
 
-// img {
-//   border-radius:2%;
-// }
+.vectr-text-container {
+  @extend .container-fluid;
+  max-width: 1080px;
+}
+
+.vectr-wide-container {
+  @extend .container-lg;
+}
+
+/* Members */
+#members ul {
+  transform: translate(1rem, 0);
+}
 
 /* Carousel */
+#vectrCarousel {
+  height: 25vw; // roughly keep aspect-ratio
+  min-height: 250px;
+  margin-bottom: 20px;
+  background-color: black;
+  position: relative;
+}
 #vectrCarousel .carousel-item {
   height: 100%;
 }
@@ -23,7 +40,17 @@ body {
   object-fit: cover;
   object-position: center center;
 }
-#vectrCarousel {
-  height: 250px;
-  margin-bottom: 20px;
+#vectrCarousel .vectr-carousel-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#vectrCarousel .vectr-darken {
+  background-color: rgba(0, 0, 0, 0.5);
 }

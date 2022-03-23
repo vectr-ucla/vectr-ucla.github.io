@@ -8,16 +8,14 @@
 @import "bootstrap/mixins";
 
 $navbar-padding-y: 1px;
+$enable-negative-margins: true;
 
 // Custom color definitions
 $header-footer-bg: $black;
-$panel-bg: $dark;
 
 // Custom theme colors
 $theme-colors:map-merge($theme-colors, (
-  "primary": $yellow-300,
   "header-footer-bg": $header-footer-bg,
-  "panel-bg": $panel-bg
 ));
 
 // Propagate custom theme colors to relevant variables (see https://stackoverflow.com/a/68762902)

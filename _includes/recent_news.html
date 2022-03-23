@@ -1,0 +1,16 @@
+<div id="recent-news" class="card shadow border-secondary mb-3">
+  <h4 class="card-header">News</h4>
+  <div class="card-body">
+    {% for article in site.data.news limit:9 %}
+      <p>{{ article.date }}</p>
+      <div class="mt-n2 ms-4 mb-4">
+        <p>{{ article.headline | markdownify }}</p>
+        {% if article.image %}
+          <img class="img-fluid rounded" style="max-width: 192px;" src="{{ article.image }}">
+        {% endif %}
+      </div>
+    {% endfor %}
+
+    <h4><a href="/news/" class="card-link">... see all News</a></h4>
+  </div>
+</div>

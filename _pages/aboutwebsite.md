@@ -1,7 +1,7 @@
 ---
 title: "About the website"
-layout: default
-excerpt: "About the website."
+layout: text_layout
+excerpt: "About the VECTR website"
 sitemap: false
 ---
 

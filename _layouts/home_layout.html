@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: wide_layout
 ---
+
+{% include carousel.html %}
 
 <div class="row">
   <div class="col-sm-8">
     {{ content }}
   </div>
   <div class="col-sm-4">
-    {% include news_short.html %}
+    {% include recent_news.html %}
   </div>
 </div>

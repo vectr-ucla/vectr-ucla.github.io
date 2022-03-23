@@ -1,7 +1,7 @@
 ---
 title: "VECTR Lab - Research"
-layout: default
-excerpt: "VECTR Lab -- Research"
+layout: text_layout
+excerpt: "VECTR Lab Research"
 sitemap: false
 ---
 
