@@ -1,42 +1,41 @@
-- name: Brett T Lopez
+- name: Brett T. Lopez
   type: faculty
   photo: people/blopez.jpg
   info: |
-    Info
-    * Can be in the form of bullets
-    * Here's how to do *italics*
+    Department of Mechanical and Aerospace Engineering
 
 - name: Luis Andrade
   type: grad
-  photo: bio-photo.jpg
+  photo: people/landrade.jpg
   info: |
-    PhD Student
+    PhD Student, MAE
     ...
 
 - name: Kenny Chen
   type: grad
   photo: people/kchen.jpg
   info: |
-    PhD Student
+    PhD Student, ECE
     ...
 
 - name: Helene Levy
   type: grad
-  photo: bio-photo.jpg
+  photo: people/hlevy.jpg
   info: |
-    PhD Student
-    ...
-
-- name: David Thorne
-  type: grad
-  photo: people/dthrone.jpg
-  info: |
-    Gonna rock the prelims
+    PhD Student, MAE
     ...
 
 - name: Ryan Nemiroff
   type: grad
   photo: people/rnemiroff.jpg
   info: |
-    MS Student
+    MS Student, ECE
+    ...
+
+- name: David Thorne
+  type: grad
+  photo: people/dthrone.jpg
+  info: |
+    MS Student, MAE
+    Gonna rock the prelims
     ...
