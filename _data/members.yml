@@ -1,6 +1,6 @@
 - name: Brett T Lopez
   type: faculty
-  photo: dummy.png
+  photo: people/blopez.jpg
   info: |
     Info
     * Can be in the form of bullets
@@ -15,7 +15,7 @@
 
 - name: Kenny Chen
   type: grad
-  photo: bio-photo.jpg
+  photo: people/kchen.jpg
   info: |
     PhD Student
     ...
@@ -29,14 +29,14 @@
 
 - name: David Thorne
   type: grad
-  photo: bio-photo.jpg
+  photo: people/dthrone.jpg
   info: |
     Gonna rock the prelims
     ...
 
 - name: Ryan Nemiroff
   type: grad
-  photo: bio-photo.jpg
+  photo: people/rnemiroff.jpg
   info: |
     MS Student
     ...
