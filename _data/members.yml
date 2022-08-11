@@ -18,6 +18,20 @@
     PhD Student, ECE
     ...
 
+- name: Sarah Enayati
+  type: grad
+  photo: people/senayati.jpg
+  info: |
+    PhD Student, MAE
+    ...
+
+- name: Samuel Gessow
+  type: grad
+  photo: people/sgessow.jpg
+  info: |
+    PhD Student, MAE
+    ...
+
 - name: Helene Levy
   type: grad
   photo: people/hlevy.jpg
@@ -37,15 +51,15 @@
   photo: people/dthrone.jpg
   info: |
     PhD Student, MAE
-    Gonna rock the prelims
+    ... 
 
 - name: Aaron John Sabu
   type: grad
   photo: people/ajohnsabu.jpg
   info: |
     MS Student, ECE
-    Let's rock this!
-    ...
+    BTech, IIT Bombay 2021
+    <b>Research</b>: Multi-agent interaction in outer space
 
 - name: Ryan Nemiroff
   type: grad
