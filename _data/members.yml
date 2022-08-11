@@ -25,6 +25,28 @@
     PhD Student, MAE
     ...
 
+- name: Yanlong Ma
+  type: grad
+  photo: people/yma.jpg
+  info: |
+    PhD Student, MAE
+    ...
+
+- name: David Thorne
+  type: grad
+  photo: people/dthrone.jpg
+  info: |
+    PhD Student, MAE
+    Gonna rock the prelims
+
+- name: Aaron John Sabu
+  type: grad
+  photo: people/ajohnsabu.jpg
+  info: |
+    MS Student, ECE
+    Let's rock this!
+    ...
+
 - name: Ryan Nemiroff
   type: grad
   photo: people/rnemiroff.jpg
@@ -32,10 +54,9 @@
     MS Student, ECE
     ...
 
-- name: David Thorne
+- name: Cat Nystrom
   type: grad
-  photo: people/dthrone.jpg
+  photo: people/cnystrom.jpg
   info: |
     MS Student, MAE
-    Gonna rock the prelims
     ...
