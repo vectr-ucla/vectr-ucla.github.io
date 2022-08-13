@@ -3,55 +3,80 @@
   photo: people/blopez.jpg
   info: |
     Department of Mechanical and Aerospace Engineering
+    <br>
+    <br>
+    <br>
+    <a href="mailto:btlopez@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://samueli.ucla.edu/people/brett-lopez/">Website</a>
 
 - name: Luis Andrade
   type: grad
   photo: people/landrade.jpg
   info: |
     PhD Student, MAE
-    ...
+    MS, UCLA 2019
+    BS, CalPoly Pomona 2013
+    <b>Research</b>: 
+    <a href="mailto:lgandradejr@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: Kenny Chen
   type: grad
   photo: people/kchen.jpg
   info: |
     PhD Student, ECE
-    ...
+    MS, UC San Diego 2018
+    BS, UC San Diego 2017
+    <b>Research</b>: 
+    <a href="mailto:kennyjchen@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.kennyjchen.com/">Website</a>
 
 - name: Sarah Enayati
   type: grad
-  photo: people/senayati.jpg
+  photo: people/dummy.jpg
   info: |
-    PhD Student, MAE
-    ...
+    MS/PhD Student, MAE
+    BS, UCLA 2022
+    <br>
+    <b>Research</b>: 
+    <a href="mailto:sarahena@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: Samuel Gessow
   type: grad
-  photo: people/sgessow.jpg
+  photo: people/dummy.jpg
   info: |
-    PhD Student, MAE
-    ...
+    MS/PhD Student, MAE
+    BS, UCLA 2020    
+    <br>
+    <b>Research</b>:
+    <a href="mailto:sgessow@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: Helene Levy
   type: grad
   photo: people/hlevy.jpg
   info: |
     PhD Student, MAE
-    ...
+    MS, UCLA 2022
+    BS, UC Santa Barbara 2020
+    <b>Research</b>: Motion Planning and Machine Learning
+    <a href="mailto:hjlevy@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: Yanlong Ma
   type: grad
-  photo: people/yma.jpg
+  photo: people/dummy.jpg
   info: |
     PhD Student, MAE
-    ...
+    MS, Stanford University 2020
+    BS, UC Berkeley 2017
+    <b>Research</b>: 
+    <a href="mailto:yanlong@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: David Thorne
   type: grad
   photo: people/dthrone.jpg
   info: |
     PhD Student, MAE
-    ... 
+    MS, UCLA 2022
+    BS, UCLA 2021
+    <b>Research</b>: 
+    <a href="mailto:davidthorne@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: Aaron John Sabu
   type: grad
@@ -59,18 +84,26 @@
   info: |
     MS Student, ECE
     BTech, IIT Bombay 2021
-    <b>Research</b>: Multi-agent interaction in outer space
+    <br>
+    <b>Research</b>: Multi-Agent Interaction in Outer Space
+    <a href="mailto:aaronjs@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/view/aaronjs/">Website</a>
 
 - name: Ryan Nemiroff
   type: grad
   photo: people/rnemiroff.jpg
   info: |
     MS Student, ECE
-    ...
+    BS, UCLA 2021
+    <br>
+    <b>Research</b>: 
+    <a href="mailto:ryguyn@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: Cat Nystrom
   type: grad
-  photo: people/cnystrom.jpg
+  photo: people/dummy.jpg
   info: |
     MS Student, MAE
-    ...
+    BS, UCLA 2022
+    <br>
+    <b>Research</b>:
+    <a href="mailto:katenystrom431@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
