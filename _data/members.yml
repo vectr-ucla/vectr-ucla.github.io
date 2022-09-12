@@ -8,15 +8,15 @@
     <br>
     <a href="mailto:btlopez@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://samueli.ucla.edu/people/brett-lopez/">Website</a>
 
-- name: Luis Andrade
-  type: grad
-  photo: people/landrade.jpg
-  info: |
-    PhD Student, MAE
-    MS, UCLA 2019
-    BS, CalPoly Pomona 2013
-    <b>Research</b>: 
-    <a href="mailto:lgandradejr@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+# - name: Luis Andrade
+#  type: grad
+#  photo: people/landrade.jpg
+#  info: |
+#    PhD Student, MAE
+#    MS, UCLA 2019
+#    BS, CalPoly Pomona 2013
+#    <b>Research</b>: 
+#    <a href="mailto:lgandradejr@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: Kenny Chen
   type: grad
@@ -25,12 +25,12 @@
     PhD Student, ECE
     MS, UC San Diego 2018
     BS, UC San Diego 2017
-    <b>Research</b>: 
+    <b>Research</b>: Perception, Computer Vision, SLAM 
     <a href="mailto:kennyjchen@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.kennyjchen.com/">Website</a>
 
 - name: Sarah Enayati
   type: grad
-  photo: people/dummy.jpg
+  photo: people/senayati.jpg
   info: |
     MS/PhD Student, MAE
     BS, UCLA 2022
@@ -40,13 +40,13 @@
 
 - name: Samuel Gessow
   type: grad
-  photo: people/dummy.jpg
+  photo: people/sgessow.jpg
   info: |
     MS/PhD Student, MAE
     BS, UCLA 2020    
     <br>
-    <b>Research</b>:
-    <a href="mailto:sgessow@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+    <b>Research</b>: Nonlinear and Adaptive Control
+    <a href="mailto:sgessow@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuel-gessow/">Website</a>
 
 - name: Helene Levy
   type: grad
@@ -56,27 +56,27 @@
     MS, UCLA 2022
     BS, UC Santa Barbara 2020
     <b>Research</b>: Motion Planning and Machine Learning
-    <a href="mailto:hjlevy@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+    <a href="mailto:hjlevy@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://helenelevy.wixsite.com/portfolio">Website</a>
 
 - name: Yanlong Ma
   type: grad
-  photo: people/dummy.jpg
+  photo: people/yma.jpg
   info: |
     PhD Student, MAE
     MS, Stanford University 2020
     BS, UC Berkeley 2017
-    <b>Research</b>: 
-    <a href="mailto:yanlong@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+    <b>Research</b>: Trajectory Planning
+    <a href="mailto:yanlong@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yanlong-ma-622278b8/">Website</a>
 
 - name: David Thorne
   type: grad
-  photo: people/dthrone.jpg
+  photo: people/dthorne.png
   info: |
     PhD Student, MAE
-    MS, UCLA 2022
     BS, UCLA 2021
-    <b>Research</b>: 
-    <a href="mailto:davidthorne@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+    <br>
+    <b>Research</b>: <font size="-1">Heterogeneous Robot Teams, Capability-Aware Task Assignment</font>
+    <a href="mailto:davidthorne@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/david-thorne2/">Website</a>
 
 - name: Aaron John Sabu
   type: grad
@@ -95,15 +95,45 @@
     MS Student, ECE
     BS, UCLA 2021
     <br>
-    <b>Research</b>: 
-    <a href="mailto:ryguyn@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+    <b>Research</b>: LiDAR odometry, Local/Motion Planning
+    <a href="mailto:ryguyn@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryan-nemiroff">Website</a>
 
 - name: Cat Nystrom
   type: grad
-  photo: people/dummy.jpg
+  photo: people/cnystrom.jpg
   info: |
     MS Student, MAE
     BS, UCLA 2022
     <br>
-    <b>Research</b>:
-    <a href="mailto:katenystrom431@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+    <b>Research</b>: Lidar Odometry on a Ground Robot
+    <a href="mailto:katenystrom431@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kate-nystrom-84778a1ba">Website</a>
+
+- name: Aleksandra Dudek
+  type: undergrad
+  photo: people/adudek.jpeg
+  info: |
+    BS Student, MAE
+    <br>
+    <br>
+    <br>
+    <a href="mailto:adudek@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/aleksandraannadudek">Website</a>
+
+- name: Matthew Guemmer
+  type: undergrad
+  photo: people/mguemmer.jpg
+  info: |
+    BS Student, MAE
+    <br>
+    <br>
+    <br>
+    <a href="mailto:@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+
+- name: Jacob Sayono
+  type: undergrad
+  photo: people/jsayono.jpg
+  info: |
+    BS Student, MAE
+    <br>
+    <br>
+    <br>
+    <a href="mailto:jacobsayono@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jacobsayono/">Website</a>
