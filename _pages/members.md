@@ -8,7 +8,7 @@ sitemap: false
 # Lab Members
 
 <!-- {% assign member_types = "faculty,grad,undergrad" | split: ',' %} -->
-{% assign member_types = "faculty,grad" | split: ',' %}
+{% assign member_types = "faculty,grad,undergrad" | split: ',' %}
 
 {% for member_type in member_types %}
 

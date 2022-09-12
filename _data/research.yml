@@ -1,0 +1,11 @@
+- title: "Direct LiDAR-Inertial Odometry"
+  image: research/dlio.png
+  description: ""
+  researchers: K. Chen, R. Nemiroff
+  note: "[arXiv](https://arxiv.org/abs/2203.03749) &nbsp; &nbsp; 
+         [YouTube](https://www.youtube.com/watch?v=6JTeZxL0hSE)"
+
+- title: "Multi-Agent Interaction with Tumbling Objects in Orbit"
+  image: research/mas_space.jpg
+  description: "This research involves the investigation into techniques for the interaction of multiple chaser spacecraft with uncontrollable (and sometimes limitedly observable) tumbling objects in orbit. This includes the implementation of robust tube-based model predictive control for trajectory tracking and planning, improvised auction algorithms for task allocation, and the application of orbital dynamics in the target-centered coordinate frame."
+  researchers: A. John Sabu
