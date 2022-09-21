@@ -1,9 +1,7 @@
-- title: "Direct LiDAR-Inertial Odometry"
+- title: "Fast Geometric Robot Perception"
   image: research/dlio.png
-  description: ""
+  description: "Research and development of real-time algorithms for fast and reliable localization and mapping for computationally-limited robotic platforms using LiDAR and IMU sensors."
   researchers: K. Chen, R. Nemiroff
-  note: "[arXiv](https://arxiv.org/abs/2203.03749) &nbsp; &nbsp; 
-         [YouTube](https://www.youtube.com/watch?v=6JTeZxL0hSE)"
 
 <<<<<<< HEAD
 - title: "Efficient, Motion Primitive-based Path Planning for UAVs"
