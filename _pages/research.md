@@ -10,15 +10,24 @@ sitemap: false
 <div markdown="0" class="mt-4">
   {% assign number_printed = 0 %}
 
+<<<<<<< HEAD
   <div class="container">
   <div class="row justify-content-md-center">
   {% for res in site.data.research %}
     <!-- <div class="row"> -->
+=======
+  {% for res in site.data.research %}
+    <div class="row">
+>>>>>>> e4dc966f1932598551d29727cdf5ed87cb82ff77
       <div class="col-md-6">
         <div class="card shadow border-secondary mb-4">
           <div class="card-body clearfix">
             <h5 class="card-title"><strong>{{ res.title }}</strong></h5>
+<<<<<<< HEAD
             <div class="py-3 pe-3" style="float: left; width: 55%">
+=======
+            <div class="py-3 pe-3" style="float: left; width: 66%">
+>>>>>>> e4dc966f1932598551d29727cdf5ed87cb82ff77
               <img src="/images/{{ res.image }}" class="img-fluid rounded">
             </div>
             <p class="card-text">
@@ -32,8 +41,13 @@ sitemap: false
           </div>
         </div>
       </div>
+<<<<<<< HEAD
     <!-- </div> -->
   {% endfor %}
   </div>
   </div>
+=======
+    </div>
+  {% endfor %}
+>>>>>>> e4dc966f1932598551d29727cdf5ed87cb82ff77
 </div>
