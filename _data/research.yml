@@ -15,7 +15,7 @@
 
 - title: "Multi-Agent Interaction with Tumbling Objects in Orbit"
   image: research/mas_space.jpg
-  description: "This research explores techniques for the interaction of multiple chaser spacecraft with uncontrollable (and, often, limitedly observable) tumbling objects in orbit. This includes the implementation of model predictive control for trajectory tracking and planning, improvized task allocation algorithms, and the application of orbital dynamics in the target-centered coordinate frame."
+  description: "This research explores the interaction of multiple chaser spacecraft with uncontrollable (and, often, limitedly observable) tumbling objects in orbit. This includes the implementation of model predictive control for trajectory tracking and planning, and the application of improvized task allocation algorithms and other distributed techniques in a target-centered coordinate frame."
   researchers: A. John Sabu
 
 - title: "Adaptive Robust Model Predictive Control with Matched and Unmatched Uncertainties"
