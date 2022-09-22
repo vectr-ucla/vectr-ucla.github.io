@@ -15,7 +15,7 @@ sitemap: false
   {% for res in site.data.research %}
     <!-- <div class="row"> -->
       <div class="col-md-6">
-        <div class="card shadow border-secondary mb-4">
+        <div class="card shadow border-secondary mb-4" style="height: 90%">
           <div class="card-body clearfix">
             <h5 class="card-title"><strong>{{ res.title }}</strong></h5>
             <div class="py-3 pe-3" style="float: left; width: 60%">
