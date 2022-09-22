@@ -3,7 +3,28 @@
   description: "Research and development of real-time algorithms for fast and reliable localization and mapping for computationally-limited robotic platforms using LiDAR and IMU sensors."
   researchers: K. Chen, R. Nemiroff
 
+- title: "Efficient, Motion Primitive-based Path Planning for UAVs"
+  image: research/mppathplan.gif
+  description: "This research project focuses on expanding path planning capabilities for UAVs to more expansive ranges made possible by LiDAR technology. Research involves effective methods to smoothly connect motion primitives while preserving path optimality and retaining computational efficiency."
+  researchers: H. Levy
+
+- title: "Traversability-aware Multi-Robot Task Assignment"
+  image: research/travmrta.png
+  description: ""
+  researchers: D. Thorne
+
 - title: "Multi-Agent Interaction with Tumbling Objects in Orbit"
   image: research/mas_space.jpg
-  description: "This research involves the investigation into techniques for the interaction of multiple chaser spacecraft with uncontrollable (and sometimes limitedly observable) tumbling objects in orbit. This includes the implementation of robust tube-based model predictive control for trajectory tracking and planning, improvised auction algorithms for task allocation, and the application of orbital dynamics in the target-centered coordinate frame."
+  description: "This research explores techniques for the interaction of multiple chaser spacecraft with uncontrollable (and, often, limitedly observable) tumbling objects in orbit. This includes the implementation of model predictive control for trajectory tracking and planning, improvized task allocation algorithms, and the application of orbital dynamics in the target-centered coordinate frame."
   researchers: A. John Sabu
+
+- title: "Adaptive Robust Model Predictive Control with Matched and Unmatched Uncertainties"
+  image: research/armpc.png
+  description: "This research is on developing new adaptive controllers for non-linear systems. It is focused on controllers suitable for adaptive MPC for general systems with unmatched uncertainty. Possible applications for this work include aerial systems as well as underactuated systems."
+  researchers: S. Gessow
+
+- title: "Environmental Representation in Global Trajectory Planning"
+  image: research/maprep.jpg
+  description: "Representing a map efficiently is important in the study of motion planning. This research focuses on environmental representation. The potential research topics in this project include the use of SDF and NeRF to model the map."
+  researchers: Y. Ma
+
