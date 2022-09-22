@@ -23,4 +23,8 @@
   description: "This research is on developing new adaptive controllers for non-linear systems. It is focused on controllers suitable for adaptive MPC for general systems with unmatched uncertainty. Possible applications for this work include aerial systems as well as underactuated systems."
   researchers: S. Gessow
 
+- title: "Environmental Representation in Global Trajectory Planning"
+  image: research/maprep.jpg
+  description: "Representing a map efficiently is important in the study of motion planning. This research focuses on environmental representation. The potential research topics in this project include the use of SDF and NeRF to model the map."
+  researchers: Y. Ma
 
