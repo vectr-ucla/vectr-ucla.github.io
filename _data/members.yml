@@ -2,21 +2,12 @@
   type: faculty
   photo: people/blopez.jpg
   info: |
+    Assistant Professor
     Department of Mechanical and Aerospace Engineering
-    <br>
-    <br>
-    <br>
+    PhD, Massachusetts Institute of Technology 2019
+    MS, Massachusetts Institute of Technology 2016
+    BS, UCLA 2014
     <a href="mailto:btlopez@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://samueli.ucla.edu/people/brett-lopez/">Website</a>
-
-# - name: Luis Andrade
-#  type: grad
-#  photo: people/landrade.jpg
-#  info: |
-#    PhD Student, MAE
-#    MS, UCLA 2019
-#    BS, CalPoly Pomona 2013
-#    <b>Research</b>: 
-#    <a href="mailto:lgandradejr@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 - name: Kenny Chen
   type: grad

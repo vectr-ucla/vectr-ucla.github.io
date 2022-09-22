@@ -1,4 +1,3 @@
-# Examples:
 
-- date: 7 March 2022
-  headline: "A preprint on our novel method for robustly incorporating IMU measurements into LiDAR odometry pipelines, titled 'Direct LiDAR-Inertial Odometry,' is now available on [arXiv](https://arxiv.org/abs/2203.03749)! A short video on it is also available on [YouTube](https://www.youtube.com/watch?v=6JTeZxL0hSE)."
+- date: September 18, 2022
+  headline: "A preprint on our novel coarse-to-fine method for fast and parallelizable continuous-time motion correction, titled “Direct LiDAR-Inertial Odometry: Lightweight LIO with Continuous-Time Motion Correction,” is now available on arXiv."
