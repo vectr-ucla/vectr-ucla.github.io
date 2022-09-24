@@ -10,12 +10,12 @@
 
 - title: "Traversability-aware Multi-Robot Task Assignment"
   image: research/travmrta.png
-  description: ""
+  description: "This research project improves on state-of-the-art task assignment algorithms by using robot specific path planning instead of distance or application specific heuristics. In addition to creating more representative cost functions, this method also considers heterogeneity amongst robot teams by leveraging existing traversability assessment and path planning modules."
   researchers: D. Thorne
 
 - title: "Multi-Agent Interaction with Tumbling Objects in Orbit"
   image: research/mas_space.jpg
-  description: "This research explores the interaction of multiple chaser spacecraft with uncontrollable (and, often, limitedly observable) tumbling objects in orbit. This includes the implementation of model predictive control for trajectory tracking and planning, and the application of improvized task allocation algorithms and other distributed techniques in a target-centered coordinate frame."
+  description: "This research explores the interaction of multiple chaser spacecraft with uncontrollable (and, often, limitedly observable) tumbling objects in orbit. This includes the implementation of model predictive control for trajectory tracking and planning, and the application of distributed techniques including improvized task allocation algorithms in a target-centered reference frame."
   researchers: A. John Sabu
 
 - title: "Adaptive Robust Model Predictive Control with Matched and Unmatched Uncertainties"
