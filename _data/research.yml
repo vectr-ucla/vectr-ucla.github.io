@@ -1,4 +1,4 @@
-- title: "Fast Geometric Robot Perception"
+- title: "Fast and Robust Geometric Robot Perception"
   image: research/dlio.png
   description: "Research and development of real-time algorithms for fast and reliable localization and mapping for computationally-limited robotic platforms using LiDAR and IMU sensors."
   researchers: K. Chen, R. Nemiroff
