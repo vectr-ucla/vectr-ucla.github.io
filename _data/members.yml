@@ -99,9 +99,19 @@
     <b>Research</b>: Lidar Odometry on a Ground Robot
     <a href="mailto:katenystrom431@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kate-nystrom-84778a1ba">Website</a>
 
+- name: Ziaping (Alex) Zeng
+  type: grad
+  photo: people/azeng.jpg
+  info: |
+    MS Student, ECE
+    BS, University of Washington 2021
+    <br>
+    <b>Research</b>: Path Planning, Optimal Control
+    <a href="mailto:alex87@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jiaping-zhen">Website</a>
+
 - name: Aleksandra Dudek
   type: undergrad
-  photo: people/adudek.jpeg
+  photo: people/adudek.jpg
   info: |
     BS Student, MAE
     <br>
@@ -128,3 +138,13 @@
     <br>
     <br>
     <a href="mailto:jacobsayono@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jacobsayono/">Website</a>
+
+- name: James Tseng
+  type: undergrad
+  photo: people/jtseng.jpg
+  info: |
+    BS Student, MAE
+    <br>
+    <br>
+    <br>
+    <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
