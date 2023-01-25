@@ -59,7 +59,7 @@ sitemap: false
 <br>
 
 
-<div class="vectr-text-container" markdown="1">
+<!-- <div class="vectr-text-container" markdown="1">
 
 # Full List of Publications
 <div markdown="0">
@@ -71,4 +71,4 @@ sitemap: false
   {% endfor %}
 </div>
 
-</div>
+</div> -->
