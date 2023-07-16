@@ -6,13 +6,19 @@ permalink: /
 ---
 
 <p class="lead">
-  Pushing the boundaries of human knowledge in control theory and robotics
+  High-performance and field-hardened autonomy for aerospace systems.
 </p>
 
-The VECTR Lab at the Department of Mechanical and Aerospace Engineering, UCLA, directed by Dr. Brett Lopez, performs research in fields including:
+We are a research group in the [Department of Mechanical and Aerospace Engineering](https://www.mae.ucla.edu) at UCLA that specializes in designing autonomy algorithms with formal performance guarantees for aerospace systems. We utilize dynamical systems, control, and optimization theory to design innovative algorithms that stably adapt online to ensure consistent performance across diverse operating environments. In addition to rigourous theoretical analysis, our work undergoes extensive field testing on our custom drone platform.
+
+Specific research areas of interests are:
 <ul>
-  <li>optimal control and model-predictive control</li>
-  <li>simultaneous localization and mapping for robotic navigation</li>
-  <li>trajectory planning and obstacle avoidance</li>
-  <li>multi-robot systems and multi-agent interaction</li>
+  <li>Geometric localization and mapping</li>
+  <li>Nonlinear, adaptive, and optimal control</li>
+  <li>Trajectory planning</li>
+  <li>Multi-robot systems and multi-agent interaction</li>
+  <li>Advanced guidance and control for aerospace systems</li>
+  <li>Decision making under uncertinaty</li>
 </ul>
+
+If you are interested in joining the lab send an email to [Prof. Lopez](https://btlopez.github.io)  at btlopez at ucla dot edu with your CV and research interests.
