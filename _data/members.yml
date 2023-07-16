@@ -9,26 +9,7 @@
     BS, UCLA 2014
     <a href="mailto:btlopez@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://samueli.ucla.edu/people/brett-lopez/">Website</a>
 
-- name: Kenny Chen
-  type: grad
-  photo: people/kchen.jpg
-  info: |
-    PhD Student, ECE
-    MS, UC San Diego 2018
-    BS, UC San Diego 2017
-    <b>Research</b>: Perception, Computer Vision, SLAM 
-    <a href="mailto:kennyjchen@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.kennyjchen.com/">Website</a>
-
-- name: Sarah Enayati
-  type: grad
-  photo: people/senayati.jpg
-  info: |
-    MS/PhD Student, MAE
-    BS, UCLA 2022
-    <br>
-    <b>Research</b>: 
-    <a href="mailto:sarahena@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
-
+### Grads ###
 - name: Samuel Gessow
   type: grad
   photo: people/sgessow.jpg
@@ -49,16 +30,6 @@
     <b>Research</b>: Motion Planning and Machine Learning
     <a href="mailto:hjlevy@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://helenelevy.wixsite.com/portfolio">Website</a>
 
-- name: Yanlong Ma
-  type: grad
-  photo: people/yma.jpg
-  info: |
-    PhD Student, MAE
-    MS, Stanford University 2020
-    BS, UC Berkeley 2017
-    <b>Research</b>: Trajectory Planning
-    <a href="mailto:yanlong@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yanlong-ma-622278b8/">Website</a>
-
 - name: David Thorne
   type: grad
   photo: people/dthorne.png
@@ -68,6 +39,16 @@
     <br>
     <b>Research</b>: <font size="-1">Heterogeneous Robot Teams, Capability-Aware Task Assignment</font>
     <a href="mailto:davidthorne@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/david-thorne2/">Website</a>
+
+- name: Yanlong Ma
+  type: grad
+  photo: people/yma.jpg
+  info: |
+    PhD Student, MAE
+    MS, Stanford University 2020
+    BS, UC Berkeley 2017
+    <b>Research</b>: Trajectory Planning
+    <a href="mailto:yanlong@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yanlong-ma-622278b8/">Website</a>
 
 - name: Aaron John Sabu
   type: grad
@@ -79,46 +60,17 @@
     <b>Research</b>: Multi-Agent Interaction in Outer Space
     <a href="mailto:aaronjs@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/view/aaronjs/">Website</a>
 
-- name: Ryan Nemiroff
+- name: Sarah Enayati
   type: grad
-  photo: people/rnemiroff.jpg
+  photo: people/senayati.jpg
   info: |
-    MS Student, ECE
-    BS, UCLA 2021
-    <br>
-    <b>Research</b>: LiDAR Odometry
-    <a href="mailto:ryguyn@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryan-nemiroff">Website</a>
-
-- name: Cat Nystrom
-  type: grad
-  photo: people/cnystrom.jpg
-  info: |
-    MS Student, MAE
+    MS/PhD Student, MAE
     BS, UCLA 2022
     <br>
-    <b>Research</b>: Lidar Odometry on a Ground Robot
-    <a href="mailto:katenystrom431@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kate-nystrom-84778a1ba">Website</a>
+    <b>Research</b>: 
+    <a href="mailto:sarahena@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
-- name: Jiaping (Alex) Zhen
-  type: grad
-  photo: people/azhen.jpg
-  info: |
-    MS Student, MAE
-    BS, University of Washington 2022
-    <br>
-    <b>Research</b>: Path Planning, Optimal Control
-    <a href="mailto:alex87@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jiaping-zhen">Website</a>
-
-- name: Aleksandra Dudek
-  type: undergrad
-  photo: people/adudek.jpg
-  info: |
-    BS Student, MAE
-    <br>
-    <br>
-    <br>
-    <a href="mailto:adudek@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/aleksandraannadudek">Website</a>
-
+### Undergrads ###
 - name: Matthew Guemmer
   type: undergrad
   photo: people/mguemmer.jpg
@@ -148,3 +100,59 @@
     <br>
     <br>
     <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
+
+
+### Alumni ###
+- name: Kenny Chen
+  type: alumni
+  photo: people/kchen.jpg
+  info: |
+    PhD, UCLA 2023
+    MS, UC San Diego 2018
+    BS, UC San Diego 2017
+    <b>Research</b>: Perception, Computer Vision, SLAM 
+    <a href="mailto:kennyjchen@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.kennyjchen.com/">Website</a>
+
+- name: Ryan Nemiroff
+  type: alumni
+  photo: people/rnemiroff.jpg
+  info: |
+    MS, UCLA 2023
+    BS, UCLA 2021
+    <br>
+    <b>Research</b>: LiDAR Odometry
+    <a href="mailto:ryguyn@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryan-nemiroff">Website</a>
+
+- name: Cat Nystrom
+  type: alumni
+  photo: people/cnystrom.jpg
+  info: |
+    MS, UCLA 2023
+    BS, UCLA 2022
+    <br>
+    <b>Research</b>: Lidar Odometry on a Ground Robot
+    <a href="mailto:katenystrom431@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kate-nystrom-84778a1ba">Website</a>
+
+- name: Jiaping (Alex) Zhen
+  type: alumni
+  photo: people/azhen.jpg
+  info: |
+    MS, UCLA 2023
+    BS, University of Washington 2022
+    <br>
+    <b>Research</b>: Path Planning, Optimal Control
+    <a href="mailto:alex87@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jiaping-zhen">Website</a>
+
+- name: Aleksandra Dudek
+  type: alumni
+  photo: people/adudek.jpg
+  info: |
+    BS, UCLA 2023
+    <br>
+    <br>
+    <br>
+    <a href="mailto:adudek@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/aleksandraannadudek">Website</a>
+
+
+
+
