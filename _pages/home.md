@@ -9,7 +9,7 @@ permalink: /
   High-performance and field-hardened autonomy for mobile robotic systems.
 </p>
 
-We are a research group in the [Department of Mechanical and Aerospace Engineering](https://www.mae.ucla.edu) at UCLA that specializes in designing autonomy algorithms with formal performance guarantees for mobile robotic systems. We utilize dynamical systems and control theory to design and verify algorithms that maintain consistent performance across diverse operating domains despite the presence of real-world uncertainties. Our work is improving the reliability and trustworthiness of autonomous systems that someday will be utilized in emergency response, firefighting, and planetary exploration. In addition to rigorous theoretical analysis, our work undergoes extensive field testing on our custom drone platform.
+We are a research group in the [Department of Mechanical and Aerospace Engineering](https://www.mae.ucla.edu) at UCLA that specializes in designing autonomy algorithms with formal performance guarantees for mobile robotic systems. We utilize dynamical systems and control theory to design and verify algorithms that maintain consistent performance across diverse operating domains despite the presence of real-world uncertainties. Our work is improving the reliability and trustworthiness of autonomous systems that someday will be utilized in emergency response, firefighting, urban air transport, and planetary exploration. In addition to rigorous theoretical analysis, our work undergoes extensive field testing on our custom drone platform.
 
 Specific research areas of interests are:
 <ul>
