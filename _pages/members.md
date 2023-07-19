@@ -8,7 +8,7 @@ sitemap: false
 # Lab Members
 
 <!-- {% assign member_types = "faculty,grad,undergrad" | split: ',' %} -->
-{% assign member_types = "faculty,grad,undergrad" | split: ',' %}
+{% assign member_types = "faculty,grad,undergrad,alumni" | split: ',' %}
 
 {% for member_type in member_types %}
 
@@ -18,6 +18,8 @@ sitemap: false
 ## Graduate Students
   {% elsif member_type == "undergrad" %}
 ## Undergraduate Students
+{% elsif member_type == "alumni" %}
+## Alumni
   {% endif %}
 
 <div markdown="0">
