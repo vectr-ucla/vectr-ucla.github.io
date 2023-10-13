@@ -16,7 +16,7 @@
     PhD Student, MAE
     MS, UCLA 2022
     BS, UC Santa Barbara 2020
-    <b>Research</b>: Motion Planning and Machine Learning
+    <b>Research</b>: Motion Planning and Exploration
     <a href="mailto:hjlevy@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://helenelevy.wixsite.com/portfolio">Website</a>
 
 - name: Samuel Gessow
@@ -51,7 +51,8 @@
   type: grad
   photo: people/ajohnsabu.jpg
   info: |
-    MS Student, ECE
+    PhD Student, ECE
+    MS, UCLA 2023
     BTech, IIT Bombay 2021
     <b>Research</b>: Multi-Agent Interaction in Outer Space
     <a href="mailto:aaronjs@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/view/aaronjs/">Website</a>
@@ -87,12 +88,34 @@
     BS Student, MAE
     <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
 
+- name: Angela Yang
+  type: undergrad
+  photo: people/ayang.png
+  info: |
+    BS Student, CS & Linguistics
+    <a href="mailto:angela.yang@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://ayangelah.me">Website</a>
+
+- name: Grace Kwak
+  type: undergrad
+  photo: people/gkwak.jpg
+  info: |
+    BS Student, ECE
+    <a href="mailto:gracekwak@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/grace-j-kwak/">Website</a>
+
+- name: Benjamin Cruz
+  type: undergrad
+  photo: people/dummy.jpg
+  info: |
+    BS Student, ECE
+    <a href="mailto:benjicruz@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/benjamin-cruz-7690911b1">Website</a>
+
 
 ### Alumni ###
 - name: Kenny Chen
   type: alumni
   photo: people/kchen.jpg
   info: |
+    Exyn Technologies
     PhD, UCLA 2023
     <a href="mailto:kennyjchen@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.kennyjchen.com/">Website</a>
 

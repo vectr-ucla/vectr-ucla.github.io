@@ -1,5 +1,41 @@
 # Examples:
 
+- title: "Joint On-Manifold Gravity and Accelerometer Intrinsics Estimation for Inertially Aligned Mapping"
+  image: publications/joint.png
+  description: "Aligning a robot’s trajectory or map to the inertial
+frame is a critical capability that is often difficult to do
+accurately even though inertial measurement units (IMUs)
+can observe absolute roll and pitch with respect to gravity.
+Accelerometer biases and scale factor errors from the IMU’s
+initial calibration are often the major source of inaccuracies
+when aligning the robot’s odometry frame with the inertial
+frame, especially for low-grade IMUs. Practically, one would
+simultaneously estimate the true gravity vector, accelerometer
+biases, and scale factor to improve measurement quality but
+these quantities are not observable unless the IMU is sufficiently
+excited. While several methods estimate accelerometer bias
+and gravity, they do not explicitly address the observability
+issue nor do they estimate scale factor. We present a fixed-
+lag factor-graph-based estimator to address both of these
+issues. In addition to estimating accelerometer scale factor,
+our method mitigates limited observability by optimizing over
+a time window an order of magnitude larger than existing
+methods with significantly lower computational burden. The
+proposed method, which estimates accelerometer intrinsics and
+gravity separately from the other states, is enabled by a novel,
+velocity-agnostic measurement model for intrinsics and gravity,
+as well as a new method for gravity vector optimization on
+S2. Accurate IMU state prediction, gravity-alignment, and
+roll/pitch drift correction are experimentally demonstrated on
+public and self-collected datasets in diverse environments"
+  authors: R. Nemiroff, K. Chen, and B.T. Lopez
+  link:
+    url: https://arxiv.org/abs/2303.03505
+    display: arXiv
+  highlight: 1
+  note: "[Paper](https://arxiv.org/abs/2303.03505) &nbsp; &nbsp;
+         [YouTube](https://youtu.be/E190005kZKg?si=XnBb73oVQE4X5tKR)"
+
 - title: "Direct LiDAR-Inertial Odometry: Lightweight LIO with Continuous-Time Motion Correction"
   image: publications/dlio.png
   description: "Aggressive motions from agile flights or traversing irregular terrain induce motion distortion in LiDAR scans that can degrade state estimation and mapping. Some methods exist to mitigate this effect, but they are still too simplistic or computationally costly for resource-constrained mobile robots. To this end, this paper presents Direct LiDAR-Inertial Odometry (DLIO), a lightweight LiDAR-inertial odometry algorithm with a new coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction. The key to our method lies in the construction of a set of analytical equations which are parameterized solely by time, enabling fast and parallelizable point-wise deskewing. This method is feasible only because of the strong convergence properties in our novel nonlinear geometric observer, which provides provably correct state estimates for initializing the sensitive IMU integration step. Moreover, by simultaneously performing motion correction and prior generation, and by directly registering each scan to the map and bypassing scan-to-scan, DLIO's condensed architecture is nearly 20% more computationally efficient than the current state-of-the-art with a 12% increase in accuracy. We demonstrate DLIO's superior localization accuracy, map quality, and lower computational overhead as compared to four state-of-the-art algorithms through extensive tests using multiple public benchmark and self-collected datasets."
