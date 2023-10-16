@@ -88,6 +88,20 @@
     BS Student, MAE
     <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
 
+- name: Krithi Koodli
+  type: undergrad
+  photo: people/dummy.jpg
+  info: |
+    BS Student, MAE
+    <a href="mailto:kkoodli@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/krithi-koodli/">Website</a>
+
+- name: Hieu Nguyen
+  type: undergrad
+  photo: people/hnguyen.jpg
+  info: |
+    BS Student, MAE
+    <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
+
 - name: Angela Yang
   type: undergrad
   photo: people/ayang.png
@@ -104,7 +118,7 @@
 
 - name: Benjamin Cruz
   type: undergrad
-  photo: people/dummy.jpg
+  photo: people/bcruz.jpg
   info: |
     BS Student, ECE
     <a href="mailto:benjicruz@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/benjamin-cruz-7690911b1">Website</a>

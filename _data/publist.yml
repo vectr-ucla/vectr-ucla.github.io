@@ -1,33 +1,17 @@
 # Examples:
+# - title: "Adaptive Robust Control Contraction Metrics: Transient Bounds in Adaptive Control with Unmatched Uncertainties"
+#   # image: publications/joint.png
+#   description: "This work presents a new sufficient condition for synthesizing nonlinear controllers that yield bounded closed-loop tracking error transients despite the presence of unmatched uncertainties that are concurrently being learned online. The approach utilizes contraction theory and addresses fundamental limitations of existing approaches by allowing the contraction metric to depend on the unknown model parameters. This allows the controller to incorporate new model estimates generated online without sacrificing its strong convergence and bounded transients guarantees. The approach is specifically designed for trajectory tracking so the approach is more broadly applicable to adaptive model predictive control as well. Simulation results on a nonlinear system with unmatched uncertainties demonstrates the approach. "
+#   authors: S. Gessow, and B.T. Lopez
+#   link:
+#     # url: https://arxiv.org/abs/2303.03505
+#     display: arXiv
+#   highlight: 1
+#   # note: "[Paper](https://arxiv.org/abs/2303.03505) &nbsp; &nbsp;"
 
 - title: "Joint On-Manifold Gravity and Accelerometer Intrinsics Estimation for Inertially Aligned Mapping"
   image: publications/joint.png
-  description: "Aligning a robot’s trajectory or map to the inertial
-frame is a critical capability that is often difficult to do
-accurately even though inertial measurement units (IMUs)
-can observe absolute roll and pitch with respect to gravity.
-Accelerometer biases and scale factor errors from the IMU’s
-initial calibration are often the major source of inaccuracies
-when aligning the robot’s odometry frame with the inertial
-frame, especially for low-grade IMUs. Practically, one would
-simultaneously estimate the true gravity vector, accelerometer
-biases, and scale factor to improve measurement quality but
-these quantities are not observable unless the IMU is sufficiently
-excited. While several methods estimate accelerometer bias
-and gravity, they do not explicitly address the observability
-issue nor do they estimate scale factor. We present a fixed-
-lag factor-graph-based estimator to address both of these
-issues. In addition to estimating accelerometer scale factor,
-our method mitigates limited observability by optimizing over
-a time window an order of magnitude larger than existing
-methods with significantly lower computational burden. The
-proposed method, which estimates accelerometer intrinsics and
-gravity separately from the other states, is enabled by a novel,
-velocity-agnostic measurement model for intrinsics and gravity,
-as well as a new method for gravity vector optimization on
-S2. Accurate IMU state prediction, gravity-alignment, and
-roll/pitch drift correction are experimentally demonstrated on
-public and self-collected datasets in diverse environments"
+  description: "Aligning a robot’s trajectory or map to the inertial frame is a critical capability that is often difficult to do accurately even though inertial measurement units (IMUs) can observe absolute roll and pitch with respect to gravity. Accelerometer biases and scale factor errors from the IMU’s initial calibration are often the major source of inaccuracies when aligning the robot’s odometry frame with the inertial frame, especially for low-grade IMUs. Practically, one would simultaneously estimate the true gravity vector, accelerometer biases, and scale factor to improve measurement quality but these quantities are not observable unless the IMU is sufficiently excited. While several methods estimate accelerometer bias and gravity, they do not explicitly address the observability issue nor do they estimate scale factor. We present a fixed-lag factor-graph-based estimator to address both of these issues. In addition to estimating accelerometer scale factor, our method mitigates limited observability by optimizing over a time window an order of magnitude larger than existing methods with significantly lower computational burden. The proposed method, which estimates accelerometer intrinsics and gravity separately from the other states, is enabled by a novel, velocity-agnostic measurement model for intrinsics and gravity, as well as a new method for gravity vector optimization on S2. Accurate IMU state prediction, gravity-alignment, and roll/pitch drift correction are experimentally demonstrated on public and self-collected datasets in diverse environments"
   authors: R. Nemiroff, K. Chen, and B.T. Lopez
   link:
     url: https://arxiv.org/abs/2303.03505
