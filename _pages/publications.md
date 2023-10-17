@@ -7,8 +7,8 @@ sitemap: false
 
 # Publication Highlights
 
-<!-- (For a full list of publications, see [below](#full-list-of-publications)) -->
-<!-- or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
+For a full list of publications, see [below](#full-list-of-publications)
+or go to [Google Scholar](https://scholar.google.com/citations?user=9cz0xFMAAAAJ&hl=en), [ResearcherID](https://www.webofscience.com/wos/author/record/FHK-3297-2022)
 
 <div markdown="0" class="mt-4">
   {% assign number_printed = 0 %}
@@ -59,7 +59,8 @@ sitemap: false
 <br>
 
 
-<!-- <div class="vectr-text-container" markdown="1">
+<div class="col-md-8">
+<div class="vectr-text-container" markdown="1">
 
 # Full List of Publications
 <div markdown="0">
@@ -71,4 +72,5 @@ sitemap: false
   {% endfor %}
 </div>
 
-</div> -->
+</div>
+</div>
