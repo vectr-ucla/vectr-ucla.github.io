@@ -1,66 +1,57 @@
 # Examples:
 - title: "Multi-Robot Task Assignment and Path Finding for Time-Sensitive Missions with Online Task Generation"
-  image: publications/tsotan.png
-  description: "Executing time-sensitive multi-robot missions involves two distinct problems: Multi-Robot Task Assignment (MRTA) and Multi-Agent Path Finding (MAPF). Computing safe paths that complete every task and minimize the time to mission completion, or makespan, is a significant computational challenge even for small teams. In many missions, tasks can be generated during execution which is typically handled by either recomputing task assignments and paths from scratch, or by modifying existing plans using approximate approaches. While performing task reassignment and path finding from scratch produces theoretically optimal results, the computational load makes it too expensive for online implementation. In this work, we present Time-Sensitive Online Task Assignment and Navigation (TSOTAN), a framework which can quickly incorporate online generated tasks while guaranteeing bounded suboptimal task assignment makespans. It does this by assessing the quality of partial task reassignments and only performing a complete reoptimization when the makespan exceeds a user specified suboptimality bound. Through experiments in 2D environments we demonstrate TSOTAN's ability to produce quality solutions with computation times suitable for online implementation. "
   authors: D. Thorne, and B.T. Lopez
+  year: 2023
   link:
     url: https://arxiv.org/abs/2310.06153
     display: arXiv
-  highlight: 0
+    #IEEE International Conference on Robotics and Automation 
   note: "[Paper](https://arxiv.org/abs/2310.06153) &nbsp; &nbsp;"
         #  [YouTube](https://youtu.be/E190005kZKg?si=XnBb73oVQE4X5tKR)"
 
 - title: "Adaptive Robust Control Contraction Metrics: Transient Bounds in Adaptive Control with Unmatched Uncertainties"
-  # image: publications/joint.png
-  description: "This work presents a new sufficient condition for synthesizing nonlinear controllers that yield bounded closed-loop tracking error transients despite the presence of unmatched uncertainties that are concurrently being learned online. The approach utilizes contraction theory and addresses fundamental limitations of existing approaches by allowing the contraction metric to depend on the unknown model parameters. This allows the controller to incorporate new model estimates generated online without sacrificing its strong convergence and bounded transients guarantees. The approach is specifically designed for trajectory tracking so the approach is more broadly applicable to adaptive model predictive control as well. Simulation results on a nonlinear system with unmatched uncertainties demonstrates the approach. "
   authors: S. Gessow, and B.T. Lopez
+  year: 2023
   link:
-    # url: https://arxiv.org/abs/2303.03505
-    display: arXiv
-  highlight: 0
-  # note: "[Paper](https://arxiv.org/abs/2303.03505) &nbsp; &nbsp;"
+    url: 
+    display: IEEE Conference on Decision and Control
+  note: "[Paper]() &nbsp; &nbsp;"
 
 - title: "Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM"
-  image: publications/joint.png
-  description: "This paper presents Direct LiDAR-Inertial Odometry and Mapping (DLIOM), a robust SLAM algorithm with an explicit focus on computational efficiency, operational reliability, and real-world efficacy. DLIOM contains several key algorithmic innovations in both the front-end and back-end subsystems to design a resilient LiDAR-inertial architecture that is perceptive to the environment and produces accurate localization and high-fidelity 3D mapping for autonomous robotic platforms. Our ideas spawned after a deep investigation into modern LiDAR SLAM systems and their inabilities to generalize across different operating environments, in which we address several common algorithmic failure points by means of proactive safe-guards to provide long-term operational reliability in the unstructured real world. We detail several important innovations to localization accuracy and mapping resiliency distributed throughout a typical LiDAR SLAM pipeline to comprehensively increase algorithmic speed, accuracy, and robustness. In addition, we discuss insights gained from our ground-up approach while implementing such a complex system for real-time state estimation on resource-constrained systems, and we experimentally show the increased performance of our method as compared to the current state-of-the-art on both public benchmark and self-collected datasets. "
   authors: K. Chen, R. Nemiroff, and B.T. Lopez
+  year: 2023
   link:
     url: https://arxiv.org/abs/2305.01843
     display: arXiv
-  highlight: 0
+    #IEEE Transactions on Robotics
   note: "[Paper](https://arxiv.org/abs/2305.01843) &nbsp; &nbsp;"
         #  [YouTube](https://youtu.be/E190005kZKg?si=XnBb73oVQE4X5tKR)"
 
 - title: "Joint On-Manifold Gravity and Accelerometer Intrinsics Estimation for Inertially Aligned Mapping"
-  image: publications/joint.png
-  description: "Aligning a robot’s trajectory or map to the inertial frame is a critical capability that is often difficult to do accurately even though inertial measurement units (IMUs) can observe absolute roll and pitch with respect to gravity. Accelerometer biases and scale factor errors from the IMU’s initial calibration are often the major source of inaccuracies when aligning the robot’s odometry frame with the inertial frame, especially for low-grade IMUs. Practically, one would simultaneously estimate the true gravity vector, accelerometer biases, and scale factor to improve measurement quality but these quantities are not observable unless the IMU is sufficiently excited. While several methods estimate accelerometer bias and gravity, they do not explicitly address the observability issue nor do they estimate scale factor. We present a fixed-lag factor-graph-based estimator to address both of these issues. In addition to estimating accelerometer scale factor, our method mitigates limited observability by optimizing over a time window an order of magnitude larger than existing methods with significantly lower computational burden. The proposed method, which estimates accelerometer intrinsics and gravity separately from the other states, is enabled by a novel, velocity-agnostic measurement model for intrinsics and gravity, as well as a new method for gravity vector optimization on S2. Accurate IMU state prediction, gravity-alignment, and roll/pitch drift correction are experimentally demonstrated on public and self-collected datasets in diverse environments"
   authors: R. Nemiroff, K. Chen, and B.T. Lopez
+  year: 2023
   link:
     url: https://arxiv.org/abs/2303.03505
-    display: arXiv
-  highlight: 1
+    display: IEEE International Conference on Intelligent Robots and Systems
   note: "[Paper](https://arxiv.org/abs/2303.03505) &nbsp; &nbsp;
          [YouTube](https://youtu.be/E190005kZKg?si=XnBb73oVQE4X5tKR)"
 
 - title: "Direct LiDAR-Inertial Odometry: Lightweight LIO with Continuous-Time Motion Correction"
-  image: publications/dlio.png
-  description: "Aggressive motions from agile flights or traversing irregular terrain induce motion distortion in LiDAR scans that can degrade state estimation and mapping. Some methods exist to mitigate this effect, but they are still too simplistic or computationally costly for resource-constrained mobile robots. To this end, this paper presents Direct LiDAR-Inertial Odometry (DLIO), a lightweight LiDAR-inertial odometry algorithm with a new coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction. The key to our method lies in the construction of a set of analytical equations which are parameterized solely by time, enabling fast and parallelizable point-wise deskewing. This method is feasible only because of the strong convergence properties in our novel nonlinear geometric observer, which provides provably correct state estimates for initializing the sensitive IMU integration step. Moreover, by simultaneously performing motion correction and prior generation, and by directly registering each scan to the map and bypassing scan-to-scan, DLIO's condensed architecture is nearly 20% more computationally efficient than the current state-of-the-art with a 12% increase in accuracy. We demonstrate DLIO's superior localization accuracy, map quality, and lower computational overhead as compared to four state-of-the-art algorithms through extensive tests using multiple public benchmark and self-collected datasets."
   authors: K. Chen, R. Nemiroff, and B.T. Lopez
+  year: 2023
   link:
-    url: https://arxiv.org/abs/2203.03749
-    display: arXiv
-  highlight: 1
-  note: "[Paper](https://arxiv.org/abs/2203.03749) &nbsp; &nbsp;
-         [YouTube](https://www.youtube.com/watch?v=4-oXjG8ow10)"
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160508
+    display: IEEE International Conference on Robotics and Automation
+  note: "[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160508) &nbsp; &nbsp;
+         [YouTube](https://www.youtube.com/watch?v=4-oXjG8ow10) &nbsp; &nbsp;
+         [Code](https://github.com/vectr-ucla/direct_lidar_inertial_odometry)"
 
 - title: "Direct LiDAR Odometry: Fast Localization with Dense Point Clouds"
-  image: publications/dlo.png
-  description: "Field robotics in perceptually-challenging environments require fast and accurate state estimation, but modern LiDAR sensors quickly overwhelm current odometry algorithms. To this end, this paper presents a lightweight frontend LiDAR odometry solution with consistent and accurate localization for computationally-limited robotic platforms. Our Direct LiDAR Odometry (DLO) method includes several key algorithmic innovations which prioritize computational efficiency and enables the use of dense, minimally-preprocessed point clouds to provide accurate pose estimates in real-time. This is achieved through a novel keyframing system which efficiently manages historical map information, in addition to a custom iterative closest point solver for fast point cloud registration with data structure recycling. Our method is more accurate with lower computational overhead than the current state-of-the-art and has been extensively evaluated in multiple perceptually-challenging environments on aerial and legged robots as part of NASA JPL Team CoSTAR's research and development efforts for the DARPA Subterranean Challenge."
   authors: K. Chen, B.T. Lopez, A. Agha-mohammadi, and A. Mehta
+  year: 2022
   link:
     url: https://ieeexplore.ieee.org/document/9681177
     display: IEEE Robotics and Automation Letters
-  highlight: 1
   note: "[Paper](https://ieeexplore.ieee.org/document/9681177) &nbsp; &nbsp;
          [YouTube](https://www.youtube.com/watch?v=APot6QP_wvg) &nbsp; &nbsp;
          [Code](https://github.com/vectr-ucla/direct_lidar_odometry)"

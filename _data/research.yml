@@ -9,7 +9,7 @@
   researchers: H. Levy
 
 - title: "Traversability-aware Multi-Robot Task Assignment"
-  image: research/travmrta.png
+  image: research/TSOTAN.png
   description: "This research project improves on state-of-the-art task assignment algorithms by using robot specific path planning instead of distance or application specific heuristics. In addition to creating more representative cost functions, this method also considers heterogeneity amongst robot teams by leveraging existing traversability assessment and path planning modules."
   researchers: D. Thorne
 
