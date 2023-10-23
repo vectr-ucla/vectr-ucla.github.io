@@ -21,7 +21,7 @@
 
 - name: Samuel Gessow
   type: grad
-  photo: people/sgessow.jpg
+  photo: people/sgessow.png
   info: |
     PhD Student, MAE
     BS, UCLA 2020    
@@ -66,14 +66,14 @@
     <b>Research</b>: Trajectory Planning
     <a href="mailto:sarahena@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
-- name: Brandon Dee
-  type: grad
-  photo: people/dummy.jpg
-  info: |
-    MS Student, MAE
-    BS, UCLA 2022
-    <b>Research</b>: Drone Design
-    <a href="mailto:" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+# - name: Brandon Dee
+#   type: grad
+#   photo: people/dummy.jpg
+#   info: |
+#     MS Student, MAE
+#     BS, UCLA 2022
+#     <b>Research</b>: Drone Design
+#     <a href="mailto:" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
 
 ### Undergrads ###
 - name: Matthew Guemmer
@@ -99,7 +99,7 @@
 
 - name: Krithi Koodli
   type: undergrad
-  photo: people/dummy.jpg
+  photo: people/kkoodli.png
   info: |
     BS Student, MAE
     <a href="mailto:kkoodli@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/krithi-koodli/">Website</a>
