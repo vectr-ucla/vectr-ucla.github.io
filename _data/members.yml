@@ -51,7 +51,7 @@
   type: grad
   photo: people/ajohnsabu.jpg
   info: |
-    PhD Student, ECE
+    PhD Student, MAE
     MS, UCLA 2023
     BTech, IIT Bombay 2021
     <b>Research</b>: Multi-Agent Interaction in Outer Space
@@ -66,14 +66,14 @@
     <b>Research</b>: Trajectory Planning
     <a href="mailto:sarahena@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
-# - name: Brandon Dee
-#   type: grad
-#   photo: people/dummy.jpg
-#   info: |
-#     MS Student, MAE
-#     BS, UCLA 2022
-#     <b>Research</b>: Drone Design
-#     <a href="mailto:" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
+- name: Brandon Dee
+  type: grad
+  photo: people/bdee.jpg
+  info: |
+    MS Student, MAE
+    BS, UCLA 2022
+    <b>Research</b>: Motion Planning and Control of Bi-directional Thrust Quadrotor
+    <a href="mailto:brandon.dee2000@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
 
 ### Undergrads ###
 - name: Matthew Guemmer
