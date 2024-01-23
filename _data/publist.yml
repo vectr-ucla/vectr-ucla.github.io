@@ -13,9 +13,9 @@
   authors: S. Gessow, and B.T. Lopez
   year: 2023
   link:
-    url: https://arxiv.org/abs/2310.13655
+    url: https://ieeexplore.ieee.org/document/10384247
     display: IEEE Conference on Decision and Control
-  note: "[Paper](https://arxiv.org/abs/2310.13655) &nbsp; &nbsp;"
+  note: "[Paper](https://ieeexplore.ieee.org/document/10384247) &nbsp; &nbsp;"
 
 - title: "Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM"
   authors: K. Chen, R. Nemiroff, and B.T. Lopez
