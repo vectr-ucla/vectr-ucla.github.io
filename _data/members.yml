@@ -75,6 +75,16 @@
     <b>Research</b>: Motion Planning and Control of Micro Air Vehicles
     <a href="mailto:brandon.dee2000@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
 
+- name: Hieu Nguyen
+  type: grad
+  photo: people/hnguyen.jpg
+  info: |
+    MS Student, MAE
+    BS, UCLA 2023
+    <b>Research</b>: Trajectory Planning
+    <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
+
+
 ### Undergrads ###
 - name: Matthew Guemmer
   type: undergrad
@@ -103,13 +113,6 @@
   info: |
     BS Student, MAE
     <a href="mailto:kkoodli@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/krithi-koodli/">Website</a>
-
-- name: Hieu Nguyen
-  type: undergrad
-  photo: people/hnguyen.jpg
-  info: |
-    BS Student, MAE
-    <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
 
 - name: Angela Yang
   type: undergrad
@@ -154,6 +157,7 @@
   type: alumni
   photo: people/cnystrom.jpg
   info: |
+    Booz Allen Hamilton
     MS, UCLA 2023
     <a href="mailto:katenystrom431@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kate-nystrom-84778a1ba">Website</a>
 
