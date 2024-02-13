@@ -128,12 +128,19 @@
     BS Student, ECE
     <a href="mailto:gracekwak@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/grace-j-kwak/">Website</a>
 
-- name: Benjamin Cruz
+# - name: Benjamin Cruz
+#   type: undergrad
+#   photo: people/bcruz.jpg
+#   info: |
+#     BS Student, ECE
+#     <a href="mailto:benjicruz@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/benjamin-cruz-7690911b1">Website</a>
+
+- name: Samuel Chua
   type: undergrad
-  photo: people/bcruz.jpg
+  photo: people/schua.jpg
   info: |
-    BS Student, ECE
-    <a href="mailto:benjicruz@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/benjamin-cruz-7690911b1">Website</a>
+    BS Student, CS & Engineering
+    <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
 
 
 ### Alumni ###
