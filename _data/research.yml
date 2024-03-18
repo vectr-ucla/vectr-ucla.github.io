@@ -4,7 +4,7 @@
   researchers: K. Chen, R. Nemiroff
 
 - title: "Efficient Motion Primitive Search Path Planning"
-  image: research/mp_planning.png
+  image: research/time_optimal_plan.gif
   description: "This research project focuses on expanding path planning capabilities for UAVs to more expansive ranges made possible by LiDAR technology. Research involves effective methods to smoothly connect motion primitives while preserving path optimality and retaining computational efficiency."
   researchers: H. Levy
 
