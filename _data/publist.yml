@@ -1,21 +1,30 @@
 # Examples:
 - title: "Multi-Robot Task Assignment and Path Finding for Time-Sensitive Missions with Online Task Generation"
-  authors: D. Thorne, and B.T. Lopez
+  authors: D. Thorne and B.T. Lopez
   year: 2023
   link:
     url: https://arxiv.org/abs/2310.06153
     display: arXiv
     #IEEE International Conference on Robotics and Automation 
-  note: "[Paper](https://arxiv.org/abs/2310.06153) &nbsp; &nbsp;"
+  # note: "[Paper](https://arxiv.org/abs/2310.06153) &nbsp; &nbsp;"
         #  [YouTube]()"
 
 - title: "Adaptive Robust Control Contraction Metrics: Transient Bounds in Adaptive Control with Unmatched Uncertainties"
-  authors: S. Gessow, and B.T. Lopez
+  authors: S. Gessow and B.T. Lopez
   year: 2023
   link:
     url: https://ieeexplore.ieee.org/document/10384247
     display: IEEE Conference on Decision and Control
-  note: "[Paper](https://ieeexplore.ieee.org/document/10384247) &nbsp; &nbsp;"
+  # note: "[Paper](https://ieeexplore.ieee.org/document/10384247) &nbsp; &nbsp;"
+
+- title: "Dyanmic Adaptation Gains for Nonlinear Systems with Unmatched Uncertainties"
+  authors: B.T. Lopez and J.J. Slotine
+  year: 2023
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10345645
+    display: IEEE Control Systems Letters
+  # note: "[Paper](https://ieeexplore.ieee.org/abstract/document/9638976) &nbsp; &nbsp;"
+        #  [YouTube]()"
 
 - title: "Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM"
   authors: K. Chen, R. Nemiroff, and B.T. Lopez
@@ -24,7 +33,7 @@
     url: https://arxiv.org/abs/2305.01843
     display: arXiv
     #IEEE Transactions on Robotics
-  note: "[Paper](https://arxiv.org/abs/2305.01843) &nbsp; &nbsp;"
+  # note: "[Paper](https://arxiv.org/abs/2305.01843) &nbsp; &nbsp;"
         #  [YouTube]()"
 
 - title: "Joint On-Manifold Gravity and Accelerometer Intrinsics Estimation for Inertially Aligned Mapping"
@@ -33,8 +42,16 @@
   link:
     url: https://arxiv.org/abs/2303.03505
     display: IEEE International Conference on Intelligent Robots and Systems
-  note: "[Paper](https://arxiv.org/abs/2303.03505) &nbsp; &nbsp;
-         [YouTube](https://youtu.be/E190005kZKg?si=XnBb73oVQE4X5tKR)"
+  note: "[YouTube](https://youtu.be/E190005kZKg?si=XnBb73oVQE4X5tKR)"
+
+- title: "Unmathced Control Barrier Functions: Certainty Equivalence Adaptive Safety"
+  authors: B.T. Lopez and J.J. Slotine
+  year: 2023
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10156496
+    display: American Control Conference 
+  # note: "[Paper](https://ieeexplore.ieee.org/abstract/document/10156496) &nbsp; &nbsp;"
+        #  [YouTube]()"
 
 - title: "Direct LiDAR-Inertial Odometry: Lightweight LIO with Continuous-Time Motion Correction"
   authors: K. Chen, R. Nemiroff, and B.T. Lopez
@@ -42,9 +59,31 @@
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160508
     display: IEEE International Conference on Robotics and Automation
-  note: "[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160508) &nbsp; &nbsp;
-         [YouTube](https://www.youtube.com/watch?v=4-oXjG8ow10) &nbsp; &nbsp;
+  note: "[YouTube](https://www.youtube.com/watch?v=4-oXjG8ow10) &nbsp; &nbsp;
          [Code](https://github.com/vectr-ucla/direct_lidar_inertial_odometry)"
+
+- title: "A Contracting Hierarchical Observer for Pose-Inertial Fusion"
+  authors: B.T. Lopez
+  year: 2023
+  link:
+    url: https://arxiv.org/pdf/2303.02777
+    display: arXiv
+
+- title: "Adaptive Coverage Path Planning for Efficient Exploration of Unknown Environments"
+  authors: A. Bouman, J. Ott, S.K. Kim, K. Chen, M.J. Kochenderfer, B.T. Lopez, A. Agha-mohammadi, and J. Burdick
+  year: 2022
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9982287
+    display: IEEE International Conference on Intelligent Robots and Systems
+
+- title: "Adaptive Variants of Optimal Feedback Policies"
+  authors: B.T. Lopez and J.J. Slotine
+  year: 2022
+  link:
+    url: https://proceedings.mlr.press/v168/lopez22a.html
+    display: PMLR Learning for Dynamics and Control Conference
+  # note: "[Paper](https://proceedings.mlr.press/v168/lopez22a.html) &nbsp; &nbsp;"
+        #  [YouTube]()"
 
 - title: "Direct LiDAR Odometry: Fast Localization with Dense Point Clouds"
   authors: K. Chen, B.T. Lopez, A. Agha-mohammadi, and A. Mehta
@@ -52,6 +91,14 @@
   link:
     url: https://ieeexplore.ieee.org/document/9681177
     display: IEEE Robotics and Automation Letters
-  note: "[Paper](https://ieeexplore.ieee.org/document/9681177) &nbsp; &nbsp;
-         [YouTube](https://www.youtube.com/watch?v=APot6QP_wvg) &nbsp; &nbsp;
+  note: "[YouTube](https://www.youtube.com/watch?v=APot6QP_wvg) &nbsp; &nbsp;
          [Code](https://github.com/vectr-ucla/direct_lidar_odometry)"
+
+- title: "Universal Adaptive Control of Nonlinear Systems"
+  authors: B.T. Lopez and J.J. Slotine
+  year: 2021
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9638976
+    display: IEEE Control Systems Letters
+  # note: "[Paper](https://ieeexplore.ieee.org/abstract/document/9638976) &nbsp; &nbsp;"
+        #  [YouTube]()"

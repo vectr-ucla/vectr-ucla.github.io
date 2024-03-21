@@ -14,15 +14,17 @@ For a full list of publications, go to [Google Scholar](https://scholar.google.c
       {% for publi in site.data.publist %}
         <li>
           <!-- {{ publi.title }} {{publi.year}}<br> -->
-          {{ publi.authors }} <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br>
+          {{ publi.authors }}, <a href="{{ publi.link.url }}">{{ publi.title }}</a>, <br>
           {% if publi.link.display %}
-            <em> {{publi.link.display}} </em>
+            <em> {{publi.link.display}}, </em>
           {% endif %}
-          {{publi.year}} <br>
+          {{publi.year}} 
           <!-- <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br> -->
-          {% if publi.note %}
-            <p>{{ publi.note | markdownify }}</p>
-          {% endif %}
+          <!-- {% if publi.note %}
+          , {{ publi.note | markdownify }}
+          {% endif %}  -->
+          <br>
+          <br>
         </li>
       {% endfor %}
     </ul>
