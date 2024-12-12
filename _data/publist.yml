@@ -1,4 +1,32 @@
 # Examples:
+- title: "Information Control Barrier Function: Preventing Localization in Mobile Systems Through Control"
+  authors: S. Gessow, D. Thorne, and B.T. Lopez
+  year: 2024
+  link:
+    url: https://arxiv.org/pdf/2411.16999
+    display: IEEE Control Systems Letters
+
+- title: "Submodular Optimization for Keyframe Selection & Usage in SLAM"
+  authors: D. Thorne, N. Chan, Y. Ma, C. Robinson, P. Osteen, and B.T. Lopez
+  year: 2024
+  link:
+    url: https://arxiv.org/pdf/2410.05576
+    display: arXiv
+
+- title: "LiDAR Inertial Odometry and Mapping Using Learned Registration-Relevant Features"
+  authors: Z. Dong, J. Pflueger, L. Jung, C. Robinson, P. Osteen, B.T. Lopez, M.F. Everett,
+  year: 2024
+  link:
+    url: https://arxiv.org/pdf/2410.02961
+    display: arXiv
+
+- title: "Dynamic Adaptation Gains for Nonlinear Systems with Unmatched Uncertainties"
+  authors: B.T. Lopez and J.J. Slotine
+  year: 2023
+  link:
+    url: https://ieeexplore.ieee.org/document/10345645
+    display: IEEE Control Systems Letters
+   
 - title: "Multi-Robot Task Assignment and Path Finding for Time-Sensitive Missions with Online Task Generation"
   authors: D. Thorne and B.T. Lopez
   year: 2023
