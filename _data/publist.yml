@@ -19,13 +19,6 @@
   link:
     url: https://arxiv.org/pdf/2410.02961
     display: arXiv
-
-- title: "Dynamic Adaptation Gains for Nonlinear Systems with Unmatched Uncertainties"
-  authors: B.T. Lopez and J.J. Slotine
-  year: 2023
-  link:
-    url: https://ieeexplore.ieee.org/document/10345645
-    display: IEEE Control Systems Letters
    
 - title: "Multi-Robot Task Assignment and Path Finding for Time-Sensitive Missions with Online Task Generation"
   authors: D. Thorne and B.T. Lopez
