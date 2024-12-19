@@ -1,5 +1,5 @@
 # Examples:
-- title: "Information Control Barrier Function: Preventing Localization in Mobile Systems Through Control"
+- title: "Information Control Barrier Function: Preventing Localization Failures in Mobile Systems Through Control"
   authors: S. Gessow, D. Thorne, and B.T. Lopez
   year: 2024
   link:
@@ -38,7 +38,7 @@
     display: IEEE Conference on Decision and Control
   # note: "[Paper](https://ieeexplore.ieee.org/document/10384247) &nbsp; &nbsp;"
 
-- title: "Dyanmic Adaptation Gains for Nonlinear Systems with Unmatched Uncertainties"
+- title: "Dynamic Adaptation Gains for Nonlinear Systems with Unmatched Uncertainties"
   authors: B.T. Lopez and J.J. Slotine
   year: 2023
   link:
@@ -65,7 +65,7 @@
     display: IEEE International Conference on Intelligent Robots and Systems
   note: "[YouTube](https://youtu.be/E190005kZKg?si=XnBb73oVQE4X5tKR)"
 
-- title: "Unmathced Control Barrier Functions: Certainty Equivalence Adaptive Safety"
+- title: "Unmatched Control Barrier Functions: Certainty Equivalence Adaptive Safety"
   authors: B.T. Lopez and J.J. Slotine
   year: 2023
   link:
