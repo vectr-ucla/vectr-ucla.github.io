@@ -1,5 +1,5 @@
 # Examples:
-- title: "Information Control Barrier Function: Preventing Localization Failures in Mobile Systems Through Control"
+- title: "Information Control Barrier Functions: Preventing Localization Failures in Mobile Systems Through Control"
   authors: S. Gessow, D. Thorne, and B.T. Lopez
   year: 2024
   link:
@@ -14,11 +14,18 @@
     display: arXiv
 
 - title: "LiDAR Inertial Odometry and Mapping Using Learned Registration-Relevant Features"
-  authors: Z. Dong, J. Pflueger, L. Jung, C. Robinson, P. Osteen, B.T. Lopez, M.F. Everett,
+  authors: Z. Dong, J. Pflueger, L. Jung, C. Robinson, P. Osteen, B.T. Lopez, M.F. Everett
   year: 2024
   link:
     url: https://arxiv.org/pdf/2410.02961
     display: arXiv
+
+- title: "An Addendum to NeBula: Towards Extending TEAM CoSTAR’s Solution to Larger Scale Environments"
+  authors: B. Morrell et al.
+  year: 2024
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10643435
+    display: IEEE Transactions on Field Robotics
    
 - title: "Multi-Robot Task Assignment and Path Finding for Time-Sensitive Missions with Online Task Generation"
   authors: D. Thorne and B.T. Lopez
