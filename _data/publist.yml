@@ -1,4 +1,18 @@
 # Examples:
+- title: "STITCHER: Real-Time Trajectory Planning with Motion Primitive Search"
+  authors: H.J. Levy and B.T. Lopez
+  year: 2024
+  link:
+    url: https://arxiv.org/pdf/2412.21180
+    display: arXiv
+
+- title: "Quaternion Sliding Variables in Manipulator Control"
+  authors: B.T. Lopez and J.J. Slotine
+  year: 2024
+  link:
+    url: https://arxiv.org/pdf/2412.18921
+    display: arXiv
+
 - title: "Information Control Barrier Functions: Preventing Localization Failures in Mobile Systems Through Control"
   authors: S. Gessow, D. Thorne, and B.T. Lopez
   year: 2024
@@ -77,7 +91,7 @@
   year: 2023
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10156496
-    display: American Control Conference 
+    display: IEEE American Control Conference 
   # note: "[Paper](https://ieeexplore.ieee.org/abstract/document/10156496) &nbsp; &nbsp;"
         #  [YouTube]()"
 
