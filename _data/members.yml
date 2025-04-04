@@ -51,19 +51,10 @@
   type: grad
   photo: people/bdee.jpg
   info: |
-    MS Student, MAE
+    PhD Student, MAE
     BS, UCLA 2022
     <b>Research</b>: Nonlinear Control and Trajectory Optimization
     <a href="mailto:brandon.dee2000@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
-
-- name: Hieu Nguyen
-  type: grad
-  photo: people/hnguyen.jpg
-  info: |
-    MS Student, MAE
-    BS, UCLA 2023
-    <b>Research</b>: Trajectory Optimization
-    <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
 
 - name: James Tseng
   type: grad
@@ -74,6 +65,24 @@
     <b>Research</b>: Trajectory Optimization
     <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
 
+- name: McKay McFadden
+  type: grad
+  photo: people/mmcfadden.jpg
+  info: |
+    MS Student, MAE
+    BS, BYU 2024
+    <b>Research</b>: Localization and Mapping
+    <a href="mailto:mckaymcfadden@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mckay-mcfadden/">Website</a>
+
+# - name: Eden Zafran
+#   type: grad
+#   photo: people/dummy.jpg
+#   info: |
+#     MS Student, MAE
+#     BS, UCLA 2024
+#     <b>Research</b>: Trajectory Optimization
+#     <a href="mailto:" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+
 
 ### Undergrads ###
 - name: Krithi Koodli
@@ -83,26 +92,26 @@
     BS Student, MAE
     <a href="mailto:kkoodli@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/krithi-koodli/">Website</a>
 
-- name: Angela Yang
-  type: undergrad
-  photo: people/ayang.png
-  info: |
-    BS Student, CS & Linguistics
-    <a href="mailto:angela.yang@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://ayangelah.me">Website</a>
-
-- name: Grace Kwak
-  type: undergrad
-  photo: people/gkwak.jpg
-  info: |
-    BS Student, ECE
-    <a href="mailto:gracekwak@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/grace-j-kwak/">Website</a>
-
 - name: Samuel Chua
   type: undergrad
   photo: people/schua.jpg
   info: |
     BS Student, CS & Engineering
     <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
+
+- name: Ryu Adams
+  type: undergrad
+  photo: people/radams.jpg
+  info: |
+    BS Student, CS 
+    <a href="mailto:radams4r@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryu-adams/">Website</a>
+
+# - name: Alan Song
+#   type: undergrad
+#   photo: people/dummy.jpg
+#   info: |
+#     BS Student, CS 
+#     <a href="mailto:alans@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 
 ### Alumni ###
@@ -143,16 +152,23 @@
   photo: people/ajohnsabu.jpg
   info: |
     MS, UCLA 2023
-    BTech, IIT Bombay 2021
     <a href="mailto:aaronjs@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/view/aaronjs/">Website</a>
 
 - name: Sarah Enayati
   type: alumni
   photo: people/senayati.jpg
   info: |
+    General Atomics
     MS, UCLA 2023
-    BS, UCLA 2022
     <a href="mailto:sarahena@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+
+- name: Hieu Nguyen
+  type: alumni
+  photo: people/hnguyen.jpg
+  info: |
+    Wisk
+    MS, UCLA 2025
+    <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
 
 - name: Matthew Guemmer
   type: alumni
@@ -178,7 +194,20 @@
     BS, UCLA 2023
     <a href="mailto:adudek@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/aleksandraannadudek">Website</a>
 
+- name: Grace Kwak
+  type: alumni
+  photo: people/gkwak.jpg
+  info: |
+    BS, UCLA 2024
+    <a href="mailto:gracekwak@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/grace-j-kwak/">Website</a>
 
+- name: Angela Yang
+  type: alumni
+  photo: people/ayang.png
+  info: |
+    Meta
+    BS, UCLA 2025
+    <a href="mailto:angela.yang@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://ayangelah.me">Website</a>
 
 
 
