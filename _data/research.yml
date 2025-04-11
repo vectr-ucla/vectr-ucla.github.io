@@ -3,9 +3,9 @@
   description: "Research and development of real-time algorithms for fast and reliable localization and mapping for computationally-limited robotic platforms using LiDAR and IMU sensors."
   researchers: K. Chen, R. Nemiroff
 
-- title: "Efficient Motion Primitive Search Path Planning"
+- title: "Real-time Trajectory Planning with Motion Primitive Search"
   image: research/time_optimal_plan.gif
-  description: "This research project focuses on expanding path planning capabilities for UAVs to more expansive ranges made possible by LiDAR technology. Research involves effective methods to smoothly connect motion primitives while preserving path optimality and retaining computational efficiency."
+  description: "This research project expands trajectory planning for vertical take-off and landing (VTOL) vehicles to long-range distances with real-time calculation. Research involves effective methods to smoothly connect motion primitives while preserving path optimality and retaining fast computation."
   researchers: H. Levy
 
 - title: "Traversability-aware Multi-Robot Task Assignment"

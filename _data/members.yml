@@ -81,7 +81,7 @@
 #     MS Student, MAE
 #     BS, UCLA 2024
 #     <b>Research</b>: Trajectory Optimization
-#     <a href="mailto:" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+#     <a href="mailto:edenzafran@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
 
 
 ### Undergrads ###
@@ -99,6 +99,27 @@
     BS Student, CS & Engineering
     <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
 
+- name: Stanley Wei
+  type: undergrad
+  photo: people/swei.png
+  info: |
+    BS Student, CS & Applied Math 
+    <a href="mailto:stanleywei@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/stanley-wei/">Website</a>
+
+# - name: Nathan Chan
+#   type: undergrad
+#   photo: people/dummy.jpg
+#   info: |
+#     BS Student, CS 
+#     <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+
+# - name: Nakul Joshi
+#   type: undergrad
+#   photo: people/dummy.jpg
+#   info: |
+#     BS Student, CS 
+#     <a href="mailto:nakuljoshi@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+
 - name: Ryu Adams
   type: undergrad
   photo: people/radams.jpg
@@ -112,7 +133,6 @@
 #   info: |
 #     BS Student, CS 
 #     <a href="mailto:alans@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
-
 
 ### Alumni ###
 - name: Kenny Chen
