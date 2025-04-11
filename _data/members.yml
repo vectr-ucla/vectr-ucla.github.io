@@ -32,9 +32,9 @@
   type: grad
   photo: people/dthorne.png
   info: |
-    PhD Student, MAE
+    PhD Candidate, MAE
     BS, UCLA 2021
-    <b>Research</b>: Optimization and SLAM
+    <b>Research</b>: Submodular Optimization and LiDAR SLAM
     <a href="mailto:davidthorne@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/david-thorne2/">Website</a>
 
 - name: Yanlong Ma
