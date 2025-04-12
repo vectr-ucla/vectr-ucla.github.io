@@ -24,7 +24,7 @@
   researchers: S. Gessow
 
 - title: "LiDAR-Based Place recognition"
-  image: research/maprep.jpg
+  image: research/lpr_ym.gif
   description: "Abstracting geometrical information from a point cloud is important in the study of SLAM and planning. This research focuses on LiDAR-based place recognition (LPR). The potential research topics include learning-based LPR, map merging, and multi-agent map sharing. "
   researchers: Y. Ma
 
