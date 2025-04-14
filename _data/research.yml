@@ -1,22 +1,22 @@
-- title: "Fast and Robust Geometric Robot Perception"
-  image: research/dlio.png
-  description: "Research and development of real-time algorithms for fast and reliable localization and mapping for computationally-limited robotic platforms using LiDAR and IMU sensors."
-  researchers: K. Chen, R. Nemiroff
+# - title: "Fast and Robust Geometric Robot Perception"
+#   image: research/dlio.png
+#   description: "Research and development of real-time algorithms for fast and reliable localization and mapping for computationally-limited robotic platforms using LiDAR and IMU sensors."
+#   researchers: K. Chen, R. Nemiroff
 
 - title: "Real-time Trajectory Planning with Motion Primitive Search"
   image: research/time_optimal_plan.gif
   description: "This research project expands trajectory planning for vertical take-off and landing (VTOL) vehicles to long-range distances with real-time calculation. Research involves effective methods to smoothly connect motion primitives while preserving path optimality and retaining fast computation."
   researchers: H. Levy
 
-- title: "Submodular Optimization in LiDAR Perception for Mobile Robotics"
+- title: "Submodular Optimization in LiDAR Perception for Mobile Robots"
   image: research/David_Research_Image.png
   description: "This research uses submodular optimization to solve NP-hard problems in LiDAR perception with provably near-optimal performance. A key line of work involves development of a novel streaming submodular algorithm which can generate summaries for large mapping sessions and submaps for planning applications in under one second."
   researchers: D. Thorne
 
-- title: "Multi-Agent Interaction with Tumbling Objects in Orbit"
-  image: research/mas_space.jpg
-  description: "This research explores the interaction of multiple chaser spacecraft with uncontrollable (and, often, limitedly observable) tumbling objects in orbit. This includes the implementation of model predictive control for trajectory tracking and planning, and the application of distributed techniques including improvized task allocation algorithms in a target-centered reference frame."
-  researchers: A. John Sabu
+# - title: "Multi-Agent Interaction with Tumbling Objects in Orbit"
+#   image: research/mas_space.jpg
+#   description: "This research explores the interaction of multiple chaser spacecraft with uncontrollable (and, often, limitedly observable) tumbling objects in orbit. This includes the implementation of model predictive control for trajectory tracking and planning, and the application of distributed techniques including improvized task allocation algorithms in a target-centered reference frame."
+#   researchers: A. John Sabu
 
 - title: "Geometric Methods for Planning and Control"
   image: research/geometric.png
