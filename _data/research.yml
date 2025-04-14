@@ -18,9 +18,9 @@
   description: "This research explores the interaction of multiple chaser spacecraft with uncontrollable (and, often, limitedly observable) tumbling objects in orbit. This includes the implementation of model predictive control for trajectory tracking and planning, and the application of distributed techniques including improvized task allocation algorithms in a target-centered reference frame."
   researchers: A. John Sabu
 
-- title: "Adaptive Robust Model Predictive Control"
-  image: research/armpc.png
-  description: "This research is on developing new adaptive controllers for non-linear systems. It is focused on controllers suitable for adaptive MPC for general systems with unmatched uncertainty. Possible applications for this work include aerial systems as well as underactuated systems."
+- title: "Geometric Methods for Planning and Control"
+  image: research/geometric.png
+  description: "This research focuses on applying geometric methods to problems in planning and control. It includes work on contraction theory for adaptive control, information control barrier functions for integrating perception and control, and novel geometric methods for trajectory planning."
   researchers: S. Gessow
 
 - title: "Environmental Representation in Global Trajectory Planning"
