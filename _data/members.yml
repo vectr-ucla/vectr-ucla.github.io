@@ -13,7 +13,7 @@
   type: grad
   photo: people/hlevy.jpg
   info: |
-    PhD Student, MAE
+    PhD Candidate, MAE
     MS, UCLA 2022
     BS, UC Santa Barbara 2020
     <b>Research</b>: Trajectory Planning
@@ -74,14 +74,14 @@
     <b>Research</b>: Localization and Mapping
     <a href="mailto:mckaymcfadden@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mckay-mcfadden/">Website</a>
 
-# - name: Eden Zafran
-#   type: grad
-#   photo: people/dummy.jpg
-#   info: |
-#     MS Student, MAE
-#     BS, UCLA 2024
-#     <b>Research</b>: Trajectory Optimization
-#     <a href="mailto:edenzafran@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+- name: Eden Zafran
+  type: grad
+  photo: people/ezafran.jpeg
+  info: |
+    MS Student, MAE
+    BS, UCLA 2024
+    <b>Research</b>: Trajectory Optimization
+    <a href="mailto:edenzafran@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/edenzafran/">Website</a>
 
 
 ### Undergrads ###
