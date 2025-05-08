@@ -25,14 +25,14 @@
   year: 2024
   link:
     url: https://arxiv.org/pdf/2410.05576
-    display: arXiv
+    display: IEEE International Conference on Robotics and Automation
 
 - title: "LiDAR Inertial Odometry and Mapping Using Learned Registration-Relevant Features"
   authors: Z. Dong, J. Pflueger, L. Jung, C. Robinson, P. Osteen, B.T. Lopez, M.F. Everett
   year: 2024
   link:
     url: https://arxiv.org/pdf/2410.02961
-    display: arXiv
+    display: IEEE International Conference on Robotics and Automation
 
 - title: "An Addendum to NeBula: Towards Extending TEAM CoSTAR’s Solution to Larger Scale Environments"
   authors: B. Morrell et al.

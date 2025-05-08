@@ -106,6 +106,21 @@
     BS Student, CS & Applied Math 
     <a href="mailto:stanleywei@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/stanley-wei/">Website</a>
 
+- name: Ryu Adams
+  type: undergrad
+  photo: people/radams.jpg
+  info: |
+    BS Student, CS 
+    <a href="mailto:radams4r@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryu-adams/">Website</a>
+
+- name: Nathan Chan
+  type: undergrad_list_only
+
+- name: Nakul Joshi
+  type: undergrad_list_only
+
+- name: Alan Song
+  type: undergrad_list_only
 # - name: Nathan Chan
 #   type: undergrad
 #   photo: people/dummy.jpg
@@ -119,13 +134,6 @@
 #   info: |
 #     BS Student, CS 
 #     <a href="mailto:nakuljoshi@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
-
-- name: Ryu Adams
-  type: undergrad
-  photo: people/radams.jpg
-  info: |
-    BS Student, CS 
-    <a href="mailto:radams4r@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryu-adams/">Website</a>
 
 # - name: Alan Song
 #   type: undergrad
