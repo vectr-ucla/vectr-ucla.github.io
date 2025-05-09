@@ -99,12 +99,26 @@
     BS Student, CS & Engineering
     <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
 
+- name: Nathan Chan
+  type: undergrad
+  photo: people/nchan.jpg
+  info: |
+    BS Student, CS 
+    <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nathan-chan-a27139253/">Website</a>
+
 - name: Stanley Wei
   type: undergrad
   photo: people/swei.png
   info: |
     BS Student, CS & Applied Math 
     <a href="mailto:stanleywei@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/stanley-wei/">Website</a>
+
+- name: Nakul Joshi
+  type: undergrad
+  photo: people/njoshi.jpg
+  info: |
+    BS Student, CS 
+    <a href="mailto:nakuljoshi@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nakul-joshi-b76a70238">Website</a>
 
 - name: Ryu Adams
   type: undergrad
@@ -113,34 +127,16 @@
     BS Student, CS 
     <a href="mailto:radams4r@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryu-adams/">Website</a>
 
-- name: Nathan Chan
-  type: undergrad_list_only
-
-- name: Nakul Joshi
-  type: undergrad_list_only
-
 - name: Alan Song
-  type: undergrad_list_only
-# - name: Nathan Chan
-#   type: undergrad
-#   photo: people/dummy.jpg
-#   info: |
-#     BS Student, CS 
-#     <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+  type: undergrad
+  photo: people/dummy.jpg
+  info: |
+    BS Student, CS 
+    <a href="mailto:alans@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/alan-song-99123b260/">Website</a>
 
-# - name: Nakul Joshi
-#   type: undergrad
-#   photo: people/dummy.jpg
-#   info: |
-#     BS Student, CS 
-#     <a href="mailto:nakuljoshi@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
-
-# - name: Alan Song
-#   type: undergrad
-#   photo: people/dummy.jpg
-#   info: |
-#     BS Student, CS 
-#     <a href="mailto:alans@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+#  adding students without photos
+# - name: First Last
+#   type: undergrad_list_only
 
 ### Alumni ###
 - name: Kenny Chen
