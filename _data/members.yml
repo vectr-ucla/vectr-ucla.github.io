@@ -56,30 +56,12 @@
     <b>Research</b>: Nonlinear Control and Trajectory Optimization
     <a href="mailto:brandon.dee2000@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
 
-- name: James Tseng
-  type: grad
-  photo: people/jtseng.jpg
-  info: |
-    MS Student, MAE
-    BS, UCLA 2023
-    <b>Research</b>: Trajectory Optimization
-    <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
-
-- name: McKay McFadden
-  type: grad
-  photo: people/mmcfadden.jpg
-  info: |
-    MS Student, MAE
-    BS, BYU 2024
-    <b>Research</b>: Localization and Mapping
-    <a href="mailto:mckaymcfadden@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mckay-mcfadden/">Website</a>
-
 - name: Eden Zafran
   type: grad
   photo: people/ezafran.jpeg
   info: |
     MS Student, MAE
-    BS, UCLA 2024
+    BS, UCLA 2023
     <b>Research</b>: Trajectory Optimization
     <a href="mailto:edenzafran@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/edenzafran/">Website</a>
 
@@ -91,13 +73,6 @@
   info: |
     BS Student, MAE
     <a href="mailto:kkoodli@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/krithi-koodli/">Website</a>
-
-- name: Samuel Chua
-  type: undergrad
-  photo: people/schua.jpg
-  info: |
-    BS Student, CS & Engineering
-    <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
 
 - name: Nathan Chan
   type: undergrad
@@ -194,6 +169,21 @@
     MS, UCLA 2025
     <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
 
+- name: McKay McFadden
+  type: grad
+  photo: people/mmcfadden.jpg
+  info: |
+    Vector 
+    MS, UCLA 2025
+    <a href="mailto:mckaymcfadden@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mckay-mcfadden/">Website</a>
+
+- name: James Tseng
+  type: grad
+  photo: people/jtseng.jpg
+  info: |
+    MS, UCLA 2025
+    <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
+
 - name: Matthew Guemmer
   type: alumni
   photo: people/mguemmer.jpg
@@ -233,6 +223,13 @@
     BS, UCLA 2025
     <a href="mailto:angela.yang@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://ayangelah.me">Website</a>
 
+- name: Samuel Chua
+  type: undergrad
+  photo: people/schua.jpg
+  info: |
+    University of Pennsylvania (MSE)
+    BS, UCLA 2025
+    <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
 
 
 
