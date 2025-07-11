@@ -170,7 +170,7 @@
     <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
 
 - name: McKay McFadden
-  type: grad
+  type: alumni
   photo: people/mmcfadden.jpg
   info: |
     Vector 
@@ -178,7 +178,7 @@
     <a href="mailto:mckaymcfadden@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mckay-mcfadden/">Website</a>
 
 - name: James Tseng
-  type: grad
+  type: alumni
   photo: people/jtseng.jpg
   info: |
     MS, UCLA 2025
@@ -224,7 +224,7 @@
     <a href="mailto:angela.yang@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://ayangelah.me">Website</a>
 
 - name: Samuel Chua
-  type: undergrad
+  type: alumni
   photo: people/schua.jpg
   info: |
     University of Pennsylvania (MSE)
