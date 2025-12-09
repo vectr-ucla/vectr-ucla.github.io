@@ -23,8 +23,8 @@
   description: "This research focuses on applying geometric methods to problems in planning and control. It includes work on contraction theory for adaptive control, information control barrier functions for integrating perception and control, and novel geometric methods for trajectory planning."
   researchers: S. Gessow
 
-- title: "LiDAR-Based Place Recognition"
-  image: research/lpr_ym_2.gif
-  description: "Abstracting geometrical information from a point cloud is important in the study of SLAM and planning. This research focuses on LiDAR-based place recognition (LPR). The potential research topics include learning-based LPR, map merging, and multi-agent map sharing. "
+- title: "LiDAR-Based Place Recognition and Map Merging"
+  image: research/Yanlong_Research_Image.png
+  description: "Abstracting geometrical information from a point cloud is important in the study of SLAM and planning. This research focuses on LiDAR-based place recognition (LPR) and map merging. The potential research topics include learning-based LPR, multi-agent map merging, and map sharing."
   researchers: Y. Ma
 
