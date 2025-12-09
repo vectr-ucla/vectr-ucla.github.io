@@ -1,4 +1,18 @@
 # Examples:
+- title: "Submodular Optimization for Keyframe Selection & Usage in SLAM"
+  authors: D. Thorne, N. Chan, Y. Ma, C. Robinson, P. Osteen, and B.T. Lopez
+  year: 2025
+  link:
+    url: https://arxiv.org/pdf/2410.05576
+    display: IEEE International Conference on Robotics and Automation
+
+- title: "LiDAR Inertial Odometry and Mapping Using Learned Registration-Relevant Features"
+  authors: Z. Dong, J. Pflueger, L. Jung, C. Robinson, P. Osteen, B.T. Lopez, M.F. Everett
+  year: 2025
+  link:
+    url: https://arxiv.org/pdf/2410.02961
+    display: IEEE International Conference on Robotics and Automation
+
 - title: "STITCHER: Real-Time Trajectory Planning with Motion Primitive Search"
   authors: H.J. Levy and B.T. Lopez
   year: 2024
@@ -19,20 +33,6 @@
   link:
     url: https://arxiv.org/pdf/2411.16999
     display: IEEE Control Systems Letters
-
-- title: "Submodular Optimization for Keyframe Selection & Usage in SLAM"
-  authors: D. Thorne, N. Chan, Y. Ma, C. Robinson, P. Osteen, and B.T. Lopez
-  year: 2024
-  link:
-    url: https://arxiv.org/pdf/2410.05576
-    display: arXiv
-
-- title: "LiDAR Inertial Odometry and Mapping Using Learned Registration-Relevant Features"
-  authors: Z. Dong, J. Pflueger, L. Jung, C. Robinson, P. Osteen, B.T. Lopez, M.F. Everett
-  year: 2024
-  link:
-    url: https://arxiv.org/pdf/2410.02961
-    display: arXiv
 
 - title: "An Addendum to NeBula: Towards Extending TEAM CoSTAR’s Solution to Larger Scale Environments"
   authors: B. Morrell et al.

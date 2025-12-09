@@ -55,7 +55,20 @@ sitemap: false
   {% if even_odd == 1 %}
     </div>
   {% endif %}
-</div>
+
+  <!-- Adds list of undergrads after pictures -->
+  {% if member_type == "undergrad" %}
+    {% assign list_only = site.data.members | where: "type", "undergrad_list_only" %}
+    {% if list_only.size > 0 %}
+    <!-- <h4 class="mt-2">Additional Undergraduate Students</h4> -->
+    <ul class=" mb-2 fs-5 ps-0">
+      {% for member in list_only %}
+        <li>{{ member.name }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  {% endif %}
+  </div>
 
 {% endfor %}
 

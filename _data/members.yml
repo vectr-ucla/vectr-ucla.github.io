@@ -13,7 +13,7 @@
   type: grad
   photo: people/hlevy.jpg
   info: |
-    PhD Student, MAE
+    PhD Candidate, MAE
     MS, UCLA 2022
     BS, UC Santa Barbara 2020
     <b>Research</b>: Trajectory Planning
@@ -32,9 +32,9 @@
   type: grad
   photo: people/dthorne.png
   info: |
-    PhD Student, MAE
+    PhD Candidate, MAE
     BS, UCLA 2021
-    <b>Research</b>: Optimization and SLAM
+    <b>Research</b>: Submodular Optimization and LiDAR SLAM
     <a href="mailto:davidthorne@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/david-thorne2/">Website</a>
 
 - name: Yanlong Ma
@@ -51,29 +51,28 @@
   type: grad
   photo: people/bdee.jpg
   info: |
-    MS Student, MAE
+    PhD Student, MAE
     BS, UCLA 2022
     <b>Research</b>: Nonlinear Control and Trajectory Optimization
     <a href="mailto:brandon.dee2000@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
 
-- name: Hieu Nguyen
+- name: Eden Zafran
   type: grad
-  photo: people/hnguyen.jpg
+  photo: people/ezafran.jpeg
   info: |
     MS Student, MAE
     BS, UCLA 2023
     <b>Research</b>: Trajectory Optimization
-    <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
+    <a href="mailto:edenzafran@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/edenzafran/">Website</a>
 
-- name: James Tseng
+- name: Qiyuan Wu
   type: grad
-  photo: people/jtseng.jpg
+  photo: people/bwu.jpg
   info: |
     MS Student, MAE
-    BS, UCLA 2023
+    BS, UCLA 2025
     <b>Research</b>: Trajectory Optimization
-    <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
-
+    <a href="mailto:billwu67@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/d/1G31BD7WG3hxETU4i-FlgjvbPQr8Y8Izf/p/1lbVZSZsAYdWf5w0rIR6SF3ATBDS4hguu/edit">Website</a>
 
 ### Undergrads ###
 - name: Krithi Koodli
@@ -83,27 +82,44 @@
     BS Student, MAE
     <a href="mailto:kkoodli@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/krithi-koodli/">Website</a>
 
-- name: Angela Yang
+- name: Nathan Chan
   type: undergrad
-  photo: people/ayang.png
+  photo: people/nchan.jpg
   info: |
-    BS Student, CS & Linguistics
-    <a href="mailto:angela.yang@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://ayangelah.me">Website</a>
+    BS Student, CS 
+    <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nathan-chan-a27139253/">Website</a>
 
-- name: Grace Kwak
+- name: Stanley Wei
   type: undergrad
-  photo: people/gkwak.jpg
+  photo: people/swei.png
   info: |
-    BS Student, ECE
-    <a href="mailto:gracekwak@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/grace-j-kwak/">Website</a>
+    BS Student, CS & Applied Math 
+    <a href="mailto:stanleywei@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/stanley-wei/">Website</a>
 
-- name: Samuel Chua
+- name: Nakul Joshi
   type: undergrad
-  photo: people/schua.jpg
+  photo: people/njoshi.jpg
   info: |
-    BS Student, CS & Engineering
-    <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
+    BS Student, CS 
+    <a href="mailto:nakuljoshi@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nakul-joshi-b76a70238">Website</a>
 
+- name: Ryu Adams
+  type: undergrad
+  photo: people/radams.jpg
+  info: |
+    BS Student, CS 
+    <a href="mailto:radams4r@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryu-adams/">Website</a>
+
+- name: Alan Song
+  type: undergrad
+  photo: people/dummy.jpg
+  info: |
+    BS Student, CS 
+    <a href="mailto:alans@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/alan-song-99123b260/">Website</a>
+
+#  adding students without photos
+# - name: First Last
+#   type: undergrad_list_only
 
 ### Alumni ###
 - name: Kenny Chen
@@ -143,16 +159,38 @@
   photo: people/ajohnsabu.jpg
   info: |
     MS, UCLA 2023
-    BTech, IIT Bombay 2021
     <a href="mailto:aaronjs@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/view/aaronjs/">Website</a>
 
 - name: Sarah Enayati
   type: alumni
   photo: people/senayati.jpg
   info: |
+    General Atomics
     MS, UCLA 2023
-    BS, UCLA 2022
     <a href="mailto:sarahena@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="">Website</a>
+
+- name: Hieu Nguyen
+  type: alumni
+  photo: people/hnguyen.jpg
+  info: |
+    Wisk
+    MS, UCLA 2025
+    <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
+
+- name: McKay McFadden
+  type: alumni
+  photo: people/mmcfadden.jpg
+  info: |
+    Vector 
+    MS, UCLA 2025
+    <a href="mailto:mckaymcfadden@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mckay-mcfadden/">Website</a>
+
+- name: James Tseng
+  type: alumni
+  photo: people/jtseng.jpg
+  info: |
+    MS, UCLA 2025
+    <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
 
 - name: Matthew Guemmer
   type: alumni
@@ -178,8 +216,28 @@
     BS, UCLA 2023
     <a href="mailto:adudek@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/aleksandraannadudek">Website</a>
 
+- name: Grace Kwak
+  type: alumni
+  photo: people/gkwak.jpg
+  info: |
+    BS, UCLA 2024
+    <a href="mailto:gracekwak@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/grace-j-kwak/">Website</a>
 
+- name: Angela Yang
+  type: alumni
+  photo: people/ayang.png
+  info: |
+    Meta
+    BS, UCLA 2025
+    <a href="mailto:angela.yang@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://ayangelah.me">Website</a>
 
+- name: Samuel Chua
+  type: alumni
+  photo: people/schua.jpg
+  info: |
+    University of Pennsylvania (MSE)
+    BS, UCLA 2025
+    <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
 
 
 
