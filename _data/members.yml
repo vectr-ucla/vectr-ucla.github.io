@@ -23,7 +23,7 @@
   type: grad
   photo: people/sgessow.png
   info: |
-    PhD Student, MAE
+    PhD Candidate, MAE
     BS, UCLA 2020    
     <b>Research</b>: Nonlinear and Adaptive Control
     <a href="mailto:sgessow@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuel-gessow/">Website</a>
@@ -47,33 +47,6 @@
     <b>Research</b>: Machine Learning and SLAM
     <a href="mailto:yanlong@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yanlong-ma-622278b8/">Website</a>
 
-- name: Brandon Dee
-  type: grad
-  photo: people/bdee.jpg
-  info: |
-    PhD Student, MAE
-    BS, UCLA 2022
-    <b>Research</b>: Nonlinear Control and Trajectory Optimization
-    <a href="mailto:brandon.dee2000@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
-
-- name: Eden Zafran
-  type: grad
-  photo: people/ezafran.jpeg
-  info: |
-    MS Student, MAE
-    BS, UCLA 2023
-    <b>Research</b>: Trajectory Optimization
-    <a href="mailto:edenzafran@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/edenzafran/">Website</a>
-
-- name: Qiyuan Wu
-  type: grad
-  photo: people/bwu.jpg
-  info: |
-    MS Student, MAE
-    BS, UCLA 2025
-    <b>Research</b>: Trajectory Optimization
-    <a href="mailto:billwu67@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/d/1G31BD7WG3hxETU4i-FlgjvbPQr8Y8Izf/p/1lbVZSZsAYdWf5w0rIR6SF3ATBDS4hguu/edit">Website</a>
-
 ### Undergrads ###
 - name: Krithi Koodli
   type: undergrad
@@ -88,13 +61,6 @@
   info: |
     BS Student, CS 
     <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nathan-chan-a27139253/">Website</a>
-
-- name: Stanley Wei
-  type: undergrad
-  photo: people/swei.png
-  info: |
-    BS Student, CS & Applied Math 
-    <a href="mailto:stanleywei@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/stanley-wei/">Website</a>
 
 - name: Nakul Joshi
   type: undergrad
@@ -122,6 +88,7 @@
 #   type: undergrad_list_only
 
 ### Alumni ###
+# alumni grad students
 - name: Kenny Chen
   type: alumni
   photo: people/kchen.jpg
@@ -177,20 +144,47 @@
     MS, UCLA 2025
     <a href="mailto:hieunguyen1602@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hieu-nguyen-tam/">Website</a>
 
-- name: McKay McFadden
-  type: alumni
-  photo: people/mmcfadden.jpg
-  info: |
-    Vector 
-    MS, UCLA 2025
-    <a href="mailto:mckaymcfadden@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mckay-mcfadden/">Website</a>
-
 - name: James Tseng
   type: alumni
   photo: people/jtseng.jpg
   info: |
+    Astranis
     MS, UCLA 2025
     <a href="mailto:jtseng22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://jtfa22.github.io/">Website</a>
+
+- name: McKay McFadden
+  type: alumni
+  photo: people/mmcfadden.jpg
+  info: |
+    Anduril
+    MS, UCLA 2025
+    <a href="mailto:mckaymcfadden@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mckay-mcfadden/">Website</a>
+
+- name: Brandon Dee
+  type: alumni
+  photo: people/bdee.jpg
+  info: |
+    Firestorm
+    MS, UCLA 2024
+    <a href="mailto:brandon.dee2000@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/brandon-dee-uclaengineering/">Website</a>
+
+- name: Eden Zafran
+  type: alumni
+  photo: people/ezafran.jpeg
+  info: |
+    The Aerospace Corporation
+    MS, UCLA 2026
+    <a href="mailto:edenzafran@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/edenzafran/">Website</a>
+
+- name: Qiyuan Wu
+  type: alumni
+  photo: people/bwu.jpg
+  info: |
+    Caltech (PhD)
+    MS, UCLA 2026
+    <a href="mailto:billwu67@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/d/1G31BD7WG3hxETU4i-FlgjvbPQr8Y8Izf/p/1lbVZSZsAYdWf5w0rIR6SF3ATBDS4hguu/edit">Website</a>
+
+#alumni ugrads
 
 - name: Matthew Guemmer
   type: alumni
@@ -220,6 +214,7 @@
   type: alumni
   photo: people/gkwak.jpg
   info: |
+    Intrinsic
     BS, UCLA 2024
     <a href="mailto:gracekwak@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/grace-j-kwak/">Website</a>
 
@@ -239,6 +234,20 @@
     BS, UCLA 2025
     <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
 
+- name: Stanley Wei
+  type: alumni
+  photo: people/swei.png
+  info: |
+    BS, UCLA 2026 
+    <a href="mailto:stanleywei@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/stanley-wei/">Website</a>
+
+- name: Alexander Henderson
+  type: alumni
+  photo: people/ahenderson.jpg
+  info: |
+    Stanford (MS)
+    BS, UCLA 2026 
+    <a href="Alexander.l.henderson3@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/alexhenderson3/">Website</a>
 
 
 

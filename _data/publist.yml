@@ -1,4 +1,18 @@
 # Examples:
+- title: "Analysis of the Geometric Heat Flow Equation: Computing Geodesics in Real-Time with Convergence Guarantees"
+  authors: S.G. Gessow, B.T. Lopez
+  year: 2026
+  link:
+    url: https://arxiv.org/pdf/2510.11692
+    display: IEEE American Control Conference 
+
+- title: "Two-Impulse Trajectory Design in Two-Body Systems With Riemannian Geometry"
+  authors: S.G. Gessow, J. Tseng, E. Zafran, B.T. Lopez
+  year: 2026
+  link:
+    url: https://arxiv.org/pdf/2508.11612
+    display: AIAA SCITECH
+
 - title: "Submodular Optimization for Keyframe Selection & Usage in SLAM"
   authors: D. Thorne, N. Chan, Y. Ma, C. Robinson, P. Osteen, and B.T. Lopez
   year: 2025
