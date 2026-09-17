@@ -65,15 +65,6 @@
     <b>Research</b>: Trajectory Optimization
     <a href="mailto:edenzafran@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/edenzafran/">Website</a>
 
-- name: Qiyuan Wu
-  type: grad
-  photo: people/bwu.jpg
-  info: |
-    MS Student, MAE
-    BS, UCLA 2025
-    <b>Research</b>: Trajectory Optimization
-    <a href="mailto:billwu67@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/d/1G31BD7WG3hxETU4i-FlgjvbPQr8Y8Izf/p/1lbVZSZsAYdWf5w0rIR6SF3ATBDS4hguu/edit">Website</a>
-
 ### Undergrads ###
 - name: Krithi Koodli
   type: undergrad
@@ -239,7 +230,10 @@
     BS, UCLA 2025
     <a href="mailto:samuelchua2001@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuelchuajiacong/">Website</a>
 
-
-
-
-
+- name: Qiyuan Wu
+  type: alumni
+  photo: people/bwu.jpg
+  info: |
+    Caltech (PhD)
+    BS/MS, UCLA 2026
+    <a href="mailto:billwu2003@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://qiyuan-wu.github.io/">Website</a>
