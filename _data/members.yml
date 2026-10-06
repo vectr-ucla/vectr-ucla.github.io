@@ -28,15 +28,6 @@
     <b>Research</b>: Nonlinear and Adaptive Control
     <a href="mailto:sgessow@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/samuel-gessow/">Website</a>
 
-- name: David Thorne
-  type: grad
-  photo: people/dthorne.png
-  info: |
-    PhD Candidate, MAE
-    BS, UCLA 2021
-    <b>Research</b>: Submodular Optimization and LiDAR SLAM
-    <a href="mailto:davidthorne@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/david-thorne2/">Website</a>
-
 - name: Yanlong Ma
   type: grad
   photo: people/yma.jpg
@@ -47,21 +38,15 @@
     <b>Research</b>: Machine Learning and SLAM
     <a href="mailto:yanlong@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yanlong-ma-622278b8/">Website</a>
 
-### Undergrads ###
 - name: Krithi Koodli
-  type: undergrad
+  type: grad
   photo: people/kkoodli.png
   info: |
-    BS Student, MAE
+    MS Student, MAE
+    BS, UCLA 2026
     <a href="mailto:kkoodli@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/krithi-koodli/">Website</a>
 
-- name: Nathan Chan
-  type: undergrad
-  photo: people/nchan.jpg
-  info: |
-    BS Student, CS 
-    <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nathan-chan-a27139253/">Website</a>
-
+### Undergrads ###
 - name: Nakul Joshi
   type: undergrad
   photo: people/njoshi.jpg
@@ -76,16 +61,22 @@
     BS Student, CS 
     <a href="mailto:radams4r@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ryu-adams/">Website</a>
 
-- name: Alan Song
-  type: undergrad
-  photo: people/dummy.jpg
-  info: |
-    BS Student, CS 
-    <a href="mailto:alans@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/alan-song-99123b260/">Website</a>
+# - name: Alan Song
+#   type: undergrad
+#   photo: people/dummy.jpg
+#   info: |
+#     BS Student, CS 
+#     <a href="mailto:alans@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/alan-song-99123b260/">Website</a>
 
 #  adding students without photos
 # - name: First Last
 #   type: undergrad_list_only
+
+- name: Alan Song
+  type: undergrad_list_only
+
+- name: Terrence Han
+  type: undergrad_list_only
 
 ### Alumni ###
 # alumni grad students
@@ -96,6 +87,14 @@
     Field AI
     PhD, UCLA 2023
     <a href="mailto:kennyjchen@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.kennyjchen.com/">Website</a>
+
+- name: David Thorne
+  type: alumni
+  photo: people/dthorne.png
+  info: |
+    Field AI
+    PhD, UCLA 2026
+    <a href="mailto:davidthorne@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/david-thorne2/">Website</a>
 
 - name: Ryan Nemiroff
   type: alumni
@@ -182,8 +181,7 @@
   info: |
     Caltech (PhD)
     MS, UCLA 2026
-    <a href="mailto:billwu67@g.ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://sites.google.com/d/1G31BD7WG3hxETU4i-FlgjvbPQr8Y8Izf/p/1lbVZSZsAYdWf5w0rIR6SF3ATBDS4hguu/edit">Website</a>
-
+    <a href="mailto:billwu2003@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://qiyuan-wu.github.io/">Website</a>
 #alumni ugrads
 
 - name: Matthew Guemmer
@@ -249,6 +247,11 @@
     BS, UCLA 2026 
     <a href="Alexander.l.henderson3@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/alexhenderson3/">Website</a>
 
-
-
+- name: Nathan Chan
+  type: alumni
+  photo: people/nchan.jpg
+  info: |
+    Stripe
+    BS, UCLA 2026
+    <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nathan-chan-a27139253/">Website</a>
 
