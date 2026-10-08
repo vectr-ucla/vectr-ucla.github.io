@@ -44,7 +44,17 @@
   info: |
     MS Student, MAE
     BS, UCLA 2026
+    <b>Research</b>: Powered Descent Guidance
     <a href="mailto:kkoodli@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/krithi-koodli/">Website</a>
+
+- name: Garrick Jensen
+  type: grad
+  photo: people/gjensen.jpg
+  info: |
+    MS Student, MAE
+    BS, Harvey Mudd College 2022
+    <b>Research</b>: Perception and Autonomy for Robotic Teaming
+    <a href="mailto:garrickjensen@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://garrickjensen-ucla.github.io/">Website</a>
 
 ### Undergrads ###
 - name: Nakul Joshi
@@ -82,6 +92,7 @@
 # alumni grad students
 - name: Kenny Chen
   type: alumni
+  alumni_level: graduate
   photo: people/kchen.jpg
   info: |
     Field AI
@@ -90,6 +101,7 @@
 
 - name: David Thorne
   type: alumni
+  alumni_level: graduate
   photo: people/dthorne.png
   info: |
     Field AI
@@ -98,6 +110,7 @@
 
 - name: Ryan Nemiroff
   type: alumni
+  alumni_level: graduate
   photo: people/rnemiroff.jpg
   info: |
     Corvus Robotics
@@ -106,6 +119,7 @@
 
 - name: Cat Nystrom
   type: alumni
+  alumni_level: graduate
   photo: people/cnystrom.jpg
   info: |
     Booz Allen Hamilton
@@ -114,6 +128,7 @@
 
 - name: Jiaping (Alex) Zhen
   type: alumni
+  alumni_level: graduate
   photo: people/azhen.jpg
   info: |
     Purdue University (PhD)
@@ -122,6 +137,7 @@
 
 - name: Aaron John Sabu
   type: alumni
+  alumni_level: graduate
   photo: people/ajohnsabu.jpg
   info: |
     MS, UCLA 2023
@@ -129,6 +145,7 @@
 
 - name: Sarah Enayati
   type: alumni
+  alumni_level: graduate
   photo: people/senayati.jpg
   info: |
     General Atomics
@@ -137,6 +154,7 @@
 
 - name: Hieu Nguyen
   type: alumni
+  alumni_level: graduate
   photo: people/hnguyen.jpg
   info: |
     Wisk
@@ -145,6 +163,7 @@
 
 - name: James Tseng
   type: alumni
+  alumni_level: graduate
   photo: people/jtseng.jpg
   info: |
     Astranis
@@ -153,6 +172,7 @@
 
 - name: McKay McFadden
   type: alumni
+  alumni_level: graduate
   photo: people/mmcfadden.jpg
   info: |
     Anduril
@@ -161,6 +181,7 @@
 
 - name: Brandon Dee
   type: alumni
+  alumni_level: graduate
   photo: people/bdee.jpg
   info: |
     Firestorm
@@ -169,6 +190,7 @@
 
 - name: Eden Zafran
   type: alumni
+  alumni_level: graduate
   photo: people/ezafran.jpeg
   info: |
     The Aerospace Corporation
@@ -177,6 +199,7 @@
 
 - name: Qiyuan Wu
   type: alumni
+  alumni_level: graduate
   photo: people/bwu.jpg
   info: |
     Caltech (PhD)
@@ -186,6 +209,7 @@
 
 - name: Matthew Guemmer
   type: alumni
+  alumni_level: undergraduate
   photo: people/mguemmer.jpg
   info: |
     SpaceX
@@ -194,6 +218,7 @@
 
 - name: Jacob Sayono
   type: alumni
+  alumni_level: undergraduate
   photo: people/jsayono.jpg
   info: |
     Retiina
@@ -202,6 +227,7 @@
 
 - name: Aleksandra Dudek
   type: alumni
+  alumni_level: undergraduate
   photo: people/adudek.jpg
   info: |
     University of Michigan (PhD) 
@@ -210,6 +236,7 @@
 
 - name: Grace Kwak
   type: alumni
+  alumni_level: undergraduate
   photo: people/gkwak.jpg
   info: |
     Intrinsic
@@ -218,6 +245,7 @@
 
 - name: Angela Yang
   type: alumni
+  alumni_level: undergraduate
   photo: people/ayang.png
   info: |
     Meta
@@ -226,6 +254,7 @@
 
 - name: Samuel Chua
   type: alumni
+  alumni_level: undergraduate
   photo: people/schua.jpg
   info: |
     University of Pennsylvania (MSE)
@@ -234,24 +263,28 @@
 
 - name: Stanley Wei
   type: alumni
+  alumni_level: undergraduate
   photo: people/swei.png
   info: |
     BS, UCLA 2026 
     <a href="mailto:stanleywei@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/stanley-wei/">Website</a>
+  
+- name: Nathan Chan
+  type: alumni
+  alumni_level: undergraduate
+  photo: people/nchan.jpg
+  info: |
+    Stripe
+    BS, UCLA 2026
+    <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nathan-chan-a27139253/">Website</a>
 
 - name: Alexander Henderson
   type: alumni
+  alumni_level: undergraduate
   photo: people/ahenderson.jpg
   info: |
     Stanford (MS)
     BS, UCLA 2026 
     <a href="Alexander.l.henderson3@gmail.com" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/alexhenderson3/">Website</a>
 
-- name: Nathan Chan
-  type: alumni
-  photo: people/nchan.jpg
-  info: |
-    Stripe
-    BS, UCLA 2026
-    <a href="mailto:nchan22@ucla.edu" style="white-space: nowrap">Email</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nathan-chan-a27139253/">Website</a>
 

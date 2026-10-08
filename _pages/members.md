@@ -22,9 +22,23 @@ sitemap: false
 ## Alumni
   {% endif %}
 
+{% assign member_groups = "all" | split: ',' %}
+{% if member_type == "alumni" %}
+  {% assign member_groups = "graduate,undergraduate" | split: ',' %}
+{% endif %}
+{% for member_group in member_groups %}
 <div markdown="0">
+  {% if member_group == "graduate" %}
+    <h3>Graduate Student Alumni</h3>
+  {% elsif member_group == "undergraduate" %}
+    <h3>Undergraduate Student Alumni</h3>
+  {% endif %}
+  {% assign section_members = site.data.members | where: "type", member_type %}
+  {% if member_type == "alumni" %}
+    {% assign section_members = section_members | where: "alumni_level", member_group %}
+  {% endif %}
   {% assign number_printed = 0 %}
-  {% for member in site.data.members %}
+  {% for member in section_members %}
     {% if member.type == member_type %}
       <!---->
       {% assign even_odd = number_printed | modulo: 2 %}
@@ -69,6 +83,7 @@ sitemap: false
     {% endif %}
   {% endif %}
   </div>
+{% endfor %}
 
 {% endfor %}
 
